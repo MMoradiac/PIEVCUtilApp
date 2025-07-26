@@ -2,6 +2,6 @@ dash==3.1.1
 dash_auth==1.4.1
 dash_bootstrap_components==0.13.0
 dash_cytoscape==0.3.0
-numpy==2.0.2
-pandas==1.2.4
+numpy==2.3.2
+pandas==2.3.1
 plotly==6.2.0

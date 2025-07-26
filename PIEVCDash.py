@@ -171,7 +171,7 @@ app.layout = html.Div([
                         html.I(className="fas fa-info-circle fa-lg", id="target-sb",style={'font-size':'20px'})],style={'padding-left': '15px'}),
                     dbc.Tooltip("Click on it to know more!", target="target-sb"),
                     html.Hr(style={'margin-right': '6rem','margin-left': '0.8rem'}),
-                    dcc.Graph(figure=sb),
+                    dcc.Graph(figure=sb,config={'responsive': True},style={'height': '500px','maxHeight': '500px','overflow': 'hidden'}),
                 ],style={'width':'55%'}),
                 html.Div([
                     html.Div([

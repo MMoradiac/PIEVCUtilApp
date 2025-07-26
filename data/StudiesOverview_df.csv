@@ -1,0 +1,40 @@
+_id,Title,Consulting Company,Client,Location,Year,Infrastructure,Site Visit
+0,Altona Climate Resilience Assessment of Existing and Proposed Drainage Infrastructure  ,Novel Futures Corporation and RSI Ltd.,The Town of Altona,"Altona, MB",2019,(SW),Yes
+1,Climate Change Impacts on Yellow Quill First Nation Infrastructure,Stantec Consulting Ltd.,Yellow Quill First Nation,"Yellow Quill, SK",2019,"(Bu, PW, WW, RAI, SW, E, F, M)",Yes
+2,Distribution System Climate Risk and Vulnerability Assessment,Stantec Consulting Ltd.,Hydro Ottawa,"Ottawa, ON",2019,"(Bu, F, E)",No
+3,Churchill Airport Climate Change Vulnerability Assessment,BGC Engineering Inc.,Transport Canada,"Churchill, MB",2016,(AI),Yes
+4,"Climate Resilience Assessment : Wastewater Treatment Plant, Conveyance Upgrades, Outfall Upgrades & Residuals Handling Facility",WSP Canada Inc.,District of Tofino,"Tofino, BC",2019,"(WW, RAI)",No
+5,"ýýtude des vulnýýrabilitýýs aux impacts climatiques de l'ýýdifice situýý au 3, Passage du Chien d'Or",Stantec Consulting Ltd.,Public Services and Procurement Canada,"Quebec City, QC",2019,NAN,Yes
+6,City of Vernon Stormwater Infrastructure PIEVC Assessment Report,Urban System,City of Vernon,"Vernon, BC",2019,(SW),No
+7,"Climate Resilience Assessment : Town of Faro Water, Sewer and Road Upgrades - Phase 2 & 3",WSP Canada Inc.,Yukon Government,"Faro, YT",2019,"(RAI, WW, SW, PW)",No
+8,East Riverside Flood Risk Assessment,Landmark Engineers Inc,City of Windsor,"Windsor, ON",2019,"(CI, SW)",Yes
+9,Climate Change and Extreme Weather Vulnerability Assessment of PortsToronto Assets,AECOM Canada Ltd.,Toronto Port Authority,"Toronto, ON",2019,"(AI, Br, CI)",No
+10,PIEVC Assessment of Three City Parks,RSI,City of Mississauga,"Mississauga, ON",2018,"(CI, RLNBI, E, P)",Yes
+11,Graham Creek Stormwater Infrastructure PIEVC Study,R.V. Anderson Associates Limited,City of Ottawa,"Ottawa, ON",2017,"(SW, RLNBI, Bu, RI)",No
+12,Summerside Solar and Storage Integration Project,WSP Canada Inc.,City of Summerside,"Summerside, PEI",2019,"(RAI, E, M, SW)",No
+13,Xwu'nekw Park Sea Dike Climate Lens Resilience Assessment,Kerr Wood Leidal,District of Squamish,"Squamish, BC",2019,(CI),No
+14,Climate Change Impacts on the Housing Infrastructure at Oneida Nation of the Thames,Stantec Consulting Ltd.,Ontario First Nations Technical Service Corporation,"Oneida, ON",2018,"(Bu, RAI, WW, F, E, M)",Yes
+15,Climate Change Impacts on Water and Wastewater Infrastructure at Akwesasne,Stantec Consulting Ltd.,Ontario First Nations Technical Service Corporation,"Akwesasne, ON",2017,"(CI, RAI, Br, WW, SW, PW, RLNBI, F, E, M, P)",Yes
+16,"Transportation Assets Risk Assessments (TARA) to Climate Change, Cap-aux-Meules, Quebec",CBCL Limited,Transport Canada,"Cap-aux-Meules, QC",2020,(CI),Yes
+17,ýýtude de vulnýýrabilitýý des infrastructures aux effets climatiques et mýýtýýorologiques possibles - Shawinigan,CIMA+,Services publics et Approvisionnement Canada (SPAC),"Shawinigan, QC",2020,"(RAI, SW, RLNBI, Bu, E, M)",Yes
+18,ýýtude de vulnýýrabilitýý des infrastructures aux effets climatiques et mýýtýýorologiques possibles - Laval,CIMA+,Services publics et Approvisionnement Canada (SPAC),"Laval, QC",2020,"(RAI, SW, RLNBI, Bu, E, M)",Yes
+19,Climate Change Risk Assessment Kasabonika Lake First Nation Infrastructure,Stantec Consulting Ltd.,Kasabonika Lake First Nation,"Kasabonika, ON",2020,"(Bu, WW, E, F, AI, Br,RAI)",Yes
+20,Penticton Airport Risk Assessment Report Climate Change ,Prism Engineering,Transport Canada & Public Service and Procurement Canada (PSPC),"Penticton, BC",2020,(AI),Yes
+21,"Transportation Assets Risk Assessments (TARA) to Climate Change, Wood Islands Ferry Terminal, PEI",CBCL Limited,Transport Canada,"Wood Islands, PEI",2020,(CI),Yes
+22,PIEVC High Level Climate Assessment on Community Flood Mitigation Project,City of Thunder Bay,City of Thunder Bay,"Thunder Bay, ON",2019,"(SW, RLNBI, D, RAI, Bu)",No
+23,ýýtude des risques aux changements climatiques des installations de l'Aýýroport des ýýles-de-la-Madeleine,Stantec Consulting Ltd.,Transport Canada,"Magdalen Islands, QC",2020,"(AI,RLNBI, F, E, M, P)",Yes
+24,Climate Change Impacts on Water and Wastewater Infrastructure at Moose Factory Final Report,Stantec Consulting Ltd.,Ontario First Nations Technical Service Corporation,"Moose Factory, ON",2018,"(WW, PW, P, Bu)",No
+25,"Transportation Assets Risk Assessments (TARA) to Climate Change, Souris Ferry Terminal, PEI",CBCL Limited,Transport Canada,"Souris, PEI",2020,(CI),Yes
+26,"Transportation Assets Risk Assessments (TARA) to Climate Change, Caribou Ferry Terminal, Nova Scotia",CBCL Limited,Transport Canada,"Caribou, NS",2020,(CI),Yes
+27,"Transportation Assets Risk Assessments (TARA) to Climate Change, Digby Ferry Terminal, Nova Scotia",CBCL Limited,Transport Canada,"Digby, NS",2019,(CI),Yes
+28,Belledune Port Authority Climate Change Risk Assessment,CBCL Limited,Belledune Port Authority,"Belledune, NB",2020,(CI),No
+29,"Transportation Assets Risk Assessments (TARA) to Climate Change, Saint John Ferry Terminal, New Brunswick",CBCL Limited,Transport Canada,"Saint John, NB",2020,(CI),Yes
+30,Forest Lawn Multiplex Climate Change Resilience Assessment,WSP Canada Inc.,City of Calgary,"Calgary, AB",2022,"(Bu, E, M, PW, RLNBI, SW)",No
+31,Marda Loop Climate Change Risk Assessment,Dillon Consulting Limited,City of Calgary,"Calgary, AB",2022,"(E, RLNBI, RAI, SW)",No
+32,Glenbow Museum Climate Lens Climate Change Resilience Assessment,Integral Group,City of Calgary,"Calgary, AB",2022,"(Bu, E, M, F, PW, RLNBI, RAI, SW)",No
+33,Manchester Complex Site - Climate Resilience Assessment,Stantec Consulting Ltd.,City of Calgary,"Calgary, AB",2023,"(Bu, M, RAI, SW, WW)",No
+34,North Mount Pleasant Arts Center Climate Risk and Resilience Assessment,Stantec Consulting Ltd.,City of Calgary,"Calgary, AB",2023,"(Bu, M, F, PW, RLNBI, E, RAI, SW, WW)",No
+35,Future of Stephen Avenue Climate Resilience Assessment ,Stantec Consulting Ltd.,City of Calgary,"Calgary, AB",2022,"(E, PW, RLNBI, RAI, SW)",No
+36,Village Square Leisure Center Climate Risk and Resilience Assessment,Stantec Consulting Ltd.,City of Calgary,"Calgary, AB",2023,"(Bu, E, M, PW, RLNBI, RAI, SW, WW)",No
+37,Calgary Transit Fleet Electrification Planning Study Climate Risk and Resilience Assessment Report,WSP Canada Inc.,City of Calgary,"Calgary, AB",2022,"(Bu, E, M, PW, RAI, SW)",No
+38,"Climate Change Resilience Strategy Saint John Airport, New Brunswick",WSP Canada Inc.,Saint John Airport Inc.,"Saint John, NB",2021,(AI),No

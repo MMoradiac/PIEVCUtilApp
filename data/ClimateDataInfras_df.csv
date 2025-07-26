@@ -1,0 +1,369 @@
+_id,Study,ClimateParam,Coastal Infrastructure,Roads & Assoc. Infras,Bridges,Wastewater,Solid Waste,Stormwater,Potable Water,Nature based structures,Buildings,Fuel,Electrical,Airport Infrastructure,Mechanical,Dam,Personnel
+0,Prism Engineering (2020) (BC) (Penticton),Temperature,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No
+1,Prism Engineering (2020) (BC) (Penticton),Snow,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No
+2,Prism Engineering (2020) (BC) (Penticton),Freeze-Thaw,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No
+3,Prism Engineering (2020) (BC) (Penticton),Frost,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No
+4,Prism Engineering (2020) (BC) (Penticton),Heavy Precipitation,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No
+5,Prism Engineering (2020) (BC) (Penticton),Rain frequency,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No
+6,Prism Engineering (2020) (BC) (Penticton),Freezing Rain,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No
+7,Prism Engineering (2020) (BC) (Penticton),Blowing Snow,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No
+8,Prism Engineering (2020) (BC) (Penticton),Air Pollution,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No
+9,Prism Engineering (2020) (BC) (Penticton),Fire,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No
+10,Prism Engineering (2020) (BC) (Penticton),Warmer Winters,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No
+11,Prism Engineering (2020) (BC) (Penticton),Drought,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No
+12,Prism Engineering (2020) (BC) (Penticton),Heatwave & Humidity,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No
+13,Prism Engineering (2020) (BC) (Penticton),Contaminated Water,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No
+14,Prism Engineering (2020) (BC) (Penticton),Flooding,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No
+15,Prism Engineering (2020) (BC) (Penticton),Cold Snap,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No
+16,Prism Engineering (2020) (BC) (Penticton),Ice Storm,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No
+17,Prism Engineering (2020) (BC) (Penticton),Wind,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No
+18,Urban Systems (2019) (BC) (Vernon),Temperature,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No
+19,Urban Systems (2019) (BC) (Vernon),Precipitation,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No
+20,Urban Systems (2019) (BC) (Vernon),Wind,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No
+21,Urban Systems (2019) (BC) (Vernon),1:5(10min) Precip.,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No
+22,Urban Systems (2019) (BC) (Vernon),1:5(1h) Precip.,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No
+23,Urban Systems (2019) (BC) (Vernon),1:100(1h) Precip.,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No
+24,Urban Systems (2019) (BC) (Vernon),1:100(24h) Precip.,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No
+25,Urban Systems (2019) (BC) (Vernon),Multi-day Precip.,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No
+26,Urban Systems (2019) (BC) (Vernon),Storms,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No
+27,Urban Systems (2019) (BC) (Vernon),Dry Spell,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No
+28,Urban Systems (2019) (BC) (Vernon),Freshet,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No
+29,Urban Systems (2019) (BC) (Vernon),Humidity,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No
+30,Urban Systems (2019) (BC) (Vernon),Hot-Dry-Windy,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No
+31,Stantec (2020) (ON) (Kasabonika),Heat Wave,No,Yes,Yes,Yes,No,No,No,No,Yes,Yes,Yes,Yes,No,No,No
+32,Stantec (2020) (ON) (Kasabonika),Cold Snap,No,Yes,Yes,Yes,No,No,No,No,Yes,Yes,Yes,Yes,No,No,No
+33,Stantec (2020) (ON) (Kasabonika),Freezing Index,No,Yes,Yes,Yes,No,No,No,No,Yes,Yes,Yes,Yes,No,No,No
+34,Stantec (2020) (ON) (Kasabonika),Freezing Rain,No,Yes,Yes,Yes,No,No,No,No,Yes,Yes,Yes,Yes,No,No,No
+35,Stantec (2020) (ON) (Kasabonika),Rain,No,Yes,Yes,Yes,No,No,No,No,Yes,Yes,Yes,Yes,No,No,No
+36,Stantec (2020) (ON) (Kasabonika),Drought,No,Yes,Yes,Yes,No,No,No,No,Yes,Yes,Yes,Yes,No,No,No
+37,Stantec (2020) (ON) (Kasabonika),Snow,No,Yes,Yes,Yes,No,No,No,No,Yes,Yes,Yes,Yes,No,No,No
+38,Stantec (2020) (ON) (Kasabonika),Wind,No,Yes,Yes,Yes,No,No,No,No,Yes,Yes,Yes,Yes,No,No,No
+39,Stantec (2020) (ON) (Kasabonika),Fog,No,Yes,Yes,Yes,No,No,No,No,Yes,Yes,Yes,Yes,No,No,No
+40,Stantec (2020) (ON) (Kasabonika),Fire,No,Yes,Yes,Yes,No,No,No,No,Yes,Yes,Yes,Yes,No,No,No
+41,Novel Futures Corporation and RSI (2019) (MB) (Altona),Rain,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No
+42,Novel Futures Corporation and RSI (2019) (MB) (Altona),Hail,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No
+43,Novel Futures Corporation and RSI (2019) (MB) (Altona),Lightning,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No
+44,Novel Futures Corporation and RSI (2019) (MB) (Altona),Wind,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No
+45,Novel Futures Corporation and RSI (2019) (MB) (Altona),Freeze-Thaw,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No
+46,Novel Futures Corporation and RSI (2019) (MB) (Altona),Frost,No,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No
+47,CBCL (2020) (PEI) (Wood Islands),Sea level,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+48,CBCL (2020) (PEI) (Wood Islands),Waves,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+49,CBCL (2020) (PEI) (Wood Islands),Sediment transport,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+50,CBCL (2020) (PEI) (Wood Islands),Wind,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+51,CBCL (2020) (PEI) (Wood Islands),Precipitation,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+52,CBCL (2020) (PEI) (Wood Islands),Freezing Rain,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+53,CBCL (2020) (PEI) (Wood Islands),Snow,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+54,CBCL (2020) (PEI) (Wood Islands),Sea Ice,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+55,Stantec (2019) (SK) (Yellow Quill),Temperature,No,Yes,No,Yes,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,No,No
+56,Stantec (2019) (SK) (Yellow Quill),Heat Wave,No,Yes,No,Yes,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,No,No
+57,Stantec (2019) (SK) (Yellow Quill),Storms,No,Yes,No,Yes,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,No,No
+58,Stantec (2019) (SK) (Yellow Quill),Hail,No,Yes,No,Yes,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,No,No
+59,Stantec (2019) (SK) (Yellow Quill),Tornadoes,No,Yes,No,Yes,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,No,No
+60,Stantec (2019) (SK) (Yellow Quill),Wind,No,Yes,No,Yes,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,No,No
+61,WSP (2019) (YT) (Faro),Temperature,No,Yes,No,Yes,No,Yes,Yes,No,No,No,No,No,No,No,No
+62,WSP (2019) (YT) (Faro),Rain,No,Yes,No,Yes,No,Yes,Yes,No,No,No,No,No,No,No,No
+63,WSP (2019) (YT) (Faro),Precipitation,No,Yes,No,Yes,No,Yes,Yes,No,No,No,No,No,No,No,No
+64,WSP (2019) (YT) (Faro),Snow,No,Yes,No,Yes,No,Yes,Yes,No,No,No,No,No,No,No,No
+65,WSP (2019) (YT) (Faro),Frost,No,Yes,No,Yes,No,Yes,Yes,No,No,No,No,No,No,No,No
+66,WSP (2019) (YT) (Faro),Permafrost thawing,No,Yes,No,Yes,No,Yes,Yes,No,No,No,No,No,No,No,No
+67,WSP (2019) (YT) (Faro),Lightning,No,Yes,No,Yes,No,Yes,Yes,No,No,No,No,No,No,No,No
+68,WSP (2019) (YT) (Faro),Erosion,No,Yes,No,Yes,No,Yes,Yes,No,No,No,No,No,No,No,No
+69,WSP (2019) (YT) (Faro),Flooding,No,Yes,No,Yes,No,Yes,Yes,No,No,No,No,No,No,No,No
+70,WSP (2019) (YT) (Faro),Wind,No,Yes,No,Yes,No,Yes,Yes,No,No,No,No,No,No,No,No
+71,Stantec (2019) (ON) (Multi),Temperature,No,No,No,No,No,No,No,No,Yes,Yes,Yes,No,No,No,Yes
+72,Stantec (2019) (ON) (Multi),Rain,No,No,No,No,No,No,No,No,Yes,Yes,Yes,No,No,No,Yes
+73,Stantec (2019) (ON) (Multi),Freezing Rain,No,No,No,No,No,No,No,No,Yes,Yes,Yes,No,No,No,Yes
+74,Stantec (2019) (ON) (Multi),Ice Storm,No,No,No,No,No,No,No,No,Yes,Yes,Yes,No,No,No,Yes
+75,Stantec (2019) (ON) (Multi),Snow,No,No,No,No,No,No,No,No,Yes,Yes,Yes,No,No,No,Yes
+76,Stantec (2019) (ON) (Multi),Wind,No,No,No,No,No,No,No,No,Yes,Yes,Yes,No,No,No,Yes
+77,Stantec (2019) (ON) (Multi),Lightning,No,No,No,No,No,No,No,No,Yes,Yes,Yes,No,No,No,Yes
+78,Stantec (2019) (ON) (Multi),Tornadoes,No,No,No,No,No,No,No,No,Yes,Yes,Yes,No,No,No,Yes
+79,Stantec (2019) (ON) (Multi),Invasive Species,No,No,No,No,No,No,No,No,Yes,Yes,Yes,No,No,No,Yes
+80,Stantec (2019) (ON) (Multi),Fog,No,No,No,No,No,No,No,No,Yes,Yes,Yes,No,No,No,Yes
+81,Stantec (2019) (ON) (Multi),Frost,No,No,No,No,No,No,No,No,Yes,Yes,Yes,No,No,No,Yes
+82,Landmark (2019) (ON) (Windsor),Sea level,Yes,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No
+83,Landmark (2019) (ON) (Windsor),Waves,Yes,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No
+84,Landmark (2019) (ON) (Windsor),Precipitation,Yes,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No
+85,Landmark (2019) (ON) (Windsor),Flooding,Yes,No,No,No,No,Yes,No,No,No,No,No,No,No,No,No
+86,AECOM (2019) (ON) (Toronto),Temperature,Yes,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,Yes
+87,AECOM (2019) (ON) (Toronto),Heat Wave,Yes,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,Yes
+88,AECOM (2019) (ON) (Toronto),Freeze-Thaw,Yes,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,Yes
+89,AECOM (2019) (ON) (Toronto),Frost,Yes,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,Yes
+90,AECOM (2019) (ON) (Toronto),Fog,Yes,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,Yes
+91,AECOM (2019) (ON) (Toronto),Wind,Yes,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,Yes
+92,AECOM (2019) (ON) (Toronto),Tornadoes,Yes,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,Yes
+93,AECOM (2019) (ON) (Toronto),Precipitation,Yes,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,Yes
+94,AECOM (2019) (ON) (Toronto),Rain,Yes,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,Yes
+95,AECOM (2019) (ON) (Toronto),Freezing Rain,Yes,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,Yes
+96,AECOM (2019) (ON) (Toronto),Snow,Yes,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,Yes
+97,AECOM (2019) (ON) (Toronto),Hail,Yes,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,Yes
+98,AECOM (2019) (ON) (Toronto),Acid Rain,Yes,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,Yes
+99,AECOM (2019) (ON) (Toronto),Lightning,Yes,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,Yes
+100,AECOM (2019) (ON) (Toronto),Storms,Yes,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,Yes
+101,AECOM (2019) (ON) (Toronto),Drought,Yes,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,Yes
+102,AECOM (2019) (ON) (Toronto),Dust Storm,Yes,No,Yes,No,No,No,No,No,No,No,No,Yes,No,No,Yes
+103,City of Thunder Bay (2019) (ON) (Thunder Bay),Temperature,No,No,No,No,No,Yes,No,No,Yes,No,No,No,No,Yes,No
+104,City of Thunder Bay (2019) (ON) (Thunder Bay),Precipitation,No,No,No,No,No,Yes,No,No,Yes,No,No,No,No,Yes,No
+105,City of Thunder Bay (2019) (ON) (Thunder Bay),Rain,No,No,No,No,No,Yes,No,No,Yes,No,No,No,No,Yes,No
+106,City of Thunder Bay (2019) (ON) (Thunder Bay),Snow,No,No,No,No,No,Yes,No,No,Yes,No,No,No,No,Yes,No
+107,City of Thunder Bay (2019) (ON) (Thunder Bay),Ice Storm,No,No,No,No,No,Yes,No,No,Yes,No,No,No,No,Yes,No
+108,City of Thunder Bay (2019) (ON) (Thunder Bay),Water Budget,No,No,No,No,No,Yes,No,No,Yes,No,No,No,No,Yes,No
+109,City of Thunder Bay (2019) (ON) (Thunder Bay),Groundwater,No,No,No,No,No,Yes,No,No,Yes,No,No,No,No,Yes,No
+110,City of Thunder Bay (2019) (ON) (Thunder Bay),Sea level,No,No,No,No,No,Yes,No,No,Yes,No,No,No,No,Yes,No
+111,City of Thunder Bay (2019) (ON) (Thunder Bay),Wind,No,No,No,No,No,Yes,No,No,Yes,No,No,No,No,Yes,No
+112,City of Thunder Bay (2019) (ON) (Thunder Bay),Fog,No,No,No,No,No,Yes,No,No,Yes,No,No,No,No,Yes,No
+113,City of Thunder Bay (2019) (ON) (Thunder Bay),Frost,No,No,No,No,No,Yes,No,No,Yes,No,No,No,No,Yes,No
+114,City of Thunder Bay (2019) (ON) (Thunder Bay),Freeze-Thaw,No,No,No,No,No,Yes,No,No,Yes,No,No,No,No,Yes,No
+115,City of Thunder Bay (2019) (ON) (Thunder Bay),Fire,No,No,No,No,No,Yes,No,No,Yes,No,No,No,No,Yes,No
+116,Stantec (2018) (ON) (Oneida),Temperature,No,Yes,No,Yes,No,No,No,No,Yes,Yes,Yes,No,Yes,No,Yes
+117,Stantec (2018) (ON) (Oneida),Rain,No,Yes,No,Yes,No,No,No,No,Yes,Yes,Yes,No,Yes,No,Yes
+118,Stantec (2018) (ON) (Oneida),Freezing Rain,No,Yes,No,Yes,No,No,No,No,Yes,Yes,Yes,No,Yes,No,Yes
+119,Stantec (2018) (ON) (Oneida),Wind,No,Yes,No,Yes,No,No,No,No,Yes,Yes,Yes,No,Yes,No,Yes
+120,Stantec (2018) (ON) (Oneida),Tornadoes,No,Yes,No,Yes,No,No,No,No,Yes,Yes,Yes,No,Yes,No,Yes
+121,Stantec (2020) (QC) (Magdalen Islands),Wind,No,No,No,No,No,No,No,Yes,No,No,Yes,Yes,No,No,Yes
+122,Stantec (2020) (QC) (Magdalen Islands),Storms,No,No,No,No,No,No,No,Yes,No,Yes,Yes,Yes,No,No,Yes
+123,Stantec (2020) (QC) (Magdalen Islands),Gust,No,No,No,No,No,No,No,Yes,No,No,Yes,Yes,No,No,Yes
+124,Stantec (2020) (QC) (Magdalen Islands),Lightning,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,Yes
+125,Stantec (2020) (QC) (Magdalen Islands),Temperature,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No
+126,Stantec (2020) (QC) (Magdalen Islands),Freezing Rain,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No
+127,Stantec (2020) (QC) (Magdalen Islands),Sea level,No,No,No,No,No,No,No,Yes,No,No,No,Yes,No,No,No
+128,Stantec (2020) (QC) (Magdalen Islands),Waves,No,No,No,No,No,No,No,Yes,No,No,No,Yes,No,No,No
+129,Stantec (2018) (ON) (Moose Factory),Temperature,No,No,No,Yes,No,No,Yes,No,Yes,Yes,Yes,No,Yes,No,Yes
+130,Stantec (2018) (ON) (Moose Factory),Freezing Rain,No,No,No,Yes,No,No,Yes,No,Yes,Yes,Yes,No,Yes,No,Yes
+131,Stantec (2018) (ON) (Moose Factory),Rain,No,No,No,Yes,No,No,Yes,No,Yes,Yes,Yes,No,Yes,No,Yes
+132,Stantec (2018) (ON) (Moose Factory),Precipitation,No,No,No,Yes,No,No,Yes,No,Yes,Yes,Yes,No,Yes,No,Yes
+133,Stantec (2018) (ON) (Moose Factory),Snow,No,No,No,Yes,No,No,Yes,No,Yes,Yes,Yes,No,Yes,No,Yes
+134,RSI (2018) (ON) (Mississauga),Wind,Yes,No,No,No,No,No,No,Yes,No,No,Yes,No,No,No,Yes
+135,RSI (2018) (ON) (Mississauga),Tornadoes,Yes,No,No,No,No,No,No,Yes,No,No,Yes,No,No,No,Yes
+136,RSI (2018) (ON) (Mississauga),Lightning,Yes,No,No,No,No,No,No,Yes,No,No,Yes,No,No,No,Yes
+137,RSI (2018) (ON) (Mississauga),Sea level,Yes,No,No,No,No,No,No,Yes,No,No,Yes,No,No,No,Yes
+138,RSI (2018) (ON) (Mississauga),Precipitation,Yes,No,No,No,No,No,No,Yes,No,No,Yes,No,No,No,Yes
+139,RSI (2018) (ON) (Mississauga),UV Exposure,Yes,No,No,No,No,No,No,Yes,No,No,Yes,No,No,No,Yes
+140,RSI (2018) (ON) (Mississauga),Freeze-Thaw,Yes,No,No,No,No,No,No,Yes,No,No,Yes,No,No,No,Yes
+141,RSI (2018) (ON) (Mississauga),Flooding,Yes,No,No,No,No,No,No,Yes,No,No,Yes,No,No,No,Yes
+142,RSI (2018) (ON) (Mississauga),Drought,Yes,No,No,No,No,No,No,Yes,No,No,Yes,No,No,No,Yes
+143,RSI (2018) (ON) (Mississauga),Air Pollution,Yes,No,No,No,No,No,No,Yes,No,No,Yes,No,No,No,Yes
+144,RSI (2018) (ON) (Mississauga),Pest and Disease,Yes,No,No,No,No,No,No,Yes,No,No,Yes,No,No,No,Yes
+145,Stantec (2017) (ON) (Akwesasne),Temperature,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,No,Yes,No,Yes
+146,Stantec (2017) (ON) (Akwesasne),Precipitation,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,No,Yes,No,Yes
+147,Stantec (2017) (ON) (Akwesasne),Snow,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,No,Yes,No,Yes
+148,Stantec (2017) (ON) (Akwesasne),Ice Storm,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,No,Yes,No,Yes
+149,Stantec (2017) (ON) (Akwesasne),Rain,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,No,Yes,No,Yes
+150,Stantec (2017) (ON) (Akwesasne),Fog,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,No,Yes,No,Yes
+151,Stantec (2017) (ON) (Akwesasne),Wind,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,No,Yes,No,Yes
+152,Stantec (2017) (ON) (Akwesasne),Tornadoes,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,No,Yes,No,Yes
+153,Stantec (2017) (ON) (Akwesasne),Hail,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,No,Yes,No,Yes
+154,Stantec (2017) (ON) (Akwesasne),Lightning,Yes,Yes,Yes,Yes,No,Yes,Yes,Yes,No,Yes,Yes,No,Yes,No,Yes
+155,RVA (2017) (ON) (Ottawa),Temperature,No,Yes,No,No,No,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No
+156,RVA (2017) (ON) (Ottawa),Freeze-Thaw,No,Yes,No,No,No,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No
+157,RVA (2017) (ON) (Ottawa),Rain,No,Yes,No,No,No,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No
+158,RVA (2017) (ON) (Ottawa),Rain on Freezing Rain,No,Yes,No,No,No,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No
+159,RVA (2017) (ON) (Ottawa),Rain on Frost,No,Yes,No,No,No,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No
+160,RVA (2017) (ON) (Ottawa),Ice Storm,No,Yes,No,No,No,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No
+161,RVA (2017) (ON) (Ottawa),Freshet,No,Yes,No,No,No,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No
+162,RVA (2017) (ON) (Ottawa),Wind,No,Yes,No,No,No,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No
+163,RVA (2017) (ON) (Ottawa),Fire,No,Yes,No,No,No,Yes,Yes,Yes,Yes,No,Yes,No,No,No,No
+164,CBCL (2020) (PEI) (Souris),Sea level,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+165,CBCL (2020) (PEI) (Souris),Waves,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+166,CBCL (2020) (PEI) (Souris),Sediment transport,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+167,CBCL (2020) (PEI) (Souris),Wind,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+168,CBCL (2020) (PEI) (Souris),Precipitation,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+169,CBCL (2020) (PEI) (Souris),Freezing Rain,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+170,CBCL (2020) (PEI) (Souris),Snow,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+171,CBCL (2020) (PEI) (Souris),Sea Ice,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+172,CBCL (2020) (NS) (Caribou),Sea level,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+173,CBCL (2020) (NS) (Caribou),Waves,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+174,CBCL (2020) (NS) (Caribou),Sediment transport,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+175,CBCL (2020) (NS) (Caribou),Wind,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+176,CBCL (2020) (NS) (Caribou),Precipitation,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+177,CBCL (2020) (NS) (Caribou),Freezing Rain,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+178,CBCL (2020) (NS) (Caribou),Snow,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+179,CBCL (2020) (NS) (Caribou),Sea Ice,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+180,CBCL (2020) (QC) (Cap-aux-Meules),Sea level,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+181,CBCL (2020) (QC) (Cap-aux-Meules),Waves,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+182,CBCL (2020) (QC) (Cap-aux-Meules),Sediment transport,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+183,CBCL (2020) (QC) (Cap-aux-Meules),Wind,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+184,CBCL (2020) (QC) (Cap-aux-Meules),Precipitation,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+185,CBCL (2020) (QC) (Cap-aux-Meules),Freezing Rain,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+186,CBCL (2020) (QC) (Cap-aux-Meules),Snow,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+187,CBCL (2020) (QC) (Cap-aux-Meules),Sea Ice,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+188,WSP (2019) (PEI) (Summerside),Snow,No,Yes,No,No,No,Yes,No,No,No,No,Yes,No,Yes,No,No
+189,WSP (2019) (PEI) (Summerside),Freezing Rain,No,Yes,No,No,No,Yes,No,No,No,No,Yes,No,Yes,No,No
+190,WSP (2019) (PEI) (Summerside),Sea level,No,Yes,No,No,No,Yes,No,No,No,No,Yes,No,Yes,No,No
+191,WSP (2019) (PEI) (Summerside),Temperature,No,Yes,No,No,No,Yes,No,No,No,No,Yes,No,Yes,No,No
+192,WSP (2019) (PEI) (Summerside),Wind,No,Yes,No,No,No,Yes,No,No,No,No,Yes,No,Yes,No,No
+193,WSP (2019) (PEI) (Summerside),Solar Radiation,No,Yes,No,No,No,Yes,No,No,No,No,Yes,No,Yes,No,No
+194,WSP (2019) (PEI) (Summerside),Precipitation,No,Yes,No,No,No,Yes,No,No,No,No,Yes,No,Yes,No,No
+195,WSP (2019) (PEI) (Summerside),Frost,No,Yes,No,No,No,Yes,No,No,No,No,Yes,No,Yes,No,No
+196,CBCL (2019) (NS) (Digby),Sea level,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No
+197,CBCL (2019) (NS) (Digby),Waves,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No
+198,CBCL (2019) (NS) (Digby),Wind,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No
+199,CBCL (2019) (NS) (Digby),Precipitation,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No
+200,CBCL (2019) (NS) (Digby),Freezing Rain,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No
+201,CBCL (2019) (NS) (Digby),Snow,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,No,No
+202,CBCL (2020) (NB) (Belledune),Storms,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+203,CBCL (2020) (NB) (Belledune),Waves,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+204,CBCL (2020) (NB) (Belledune),Sediment transport,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+205,CBCL (2020) (NB) (Belledune),Sea Ice,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+206,CBCL (2020) (NB) (Belledune),Wind,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+207,CBCL (2020) (NB) (Belledune),Precipitation,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+208,CBCL (2020) (NB) (Belledune),Freezing Rain,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+209,CBCL (2020) (NB) (Belledune),Ice Storm,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+210,CBCL (2020) (NB) (Belledune),Snow,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+211,CBCL (2020) (NB) (Belledune),Humidity,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+212,CBCL (2020) (NB) (Belledune),Fog,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+213,CBCL (2020) (NB) (Belledune),Heatwave & Humidity,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+214,CBCL (2020) (NB) (Belledune),Temperature,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+215,CBCL (2020) (NB) (Belledune),Freeze-Thaw,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+216,CBCL (2020) (NB) (Saint John),Sea level,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+217,CBCL (2020) (NB) (Saint John),Waves,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+218,CBCL (2020) (NB) (Saint John),Wind,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+219,CBCL (2020) (NB) (Saint John),Precipitation,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+220,CBCL (2020) (NB) (Saint John),Freezing Rain,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+221,CBCL (2020) (NB) (Saint John),Snow,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+222,CBCL (2020) (NB) (Saint John),Sediment transport,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+223,BGC (2016) (MB) (Churchill),Temperature,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No
+224,BGC (2016) (MB) (Churchill),Freeze-Thaw,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No
+225,BGC (2016) (MB) (Churchill),Frost,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No
+226,BGC (2016) (MB) (Churchill),Rain,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No
+227,BGC (2016) (MB) (Churchill),Snow,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No
+228,BGC (2016) (MB) (Churchill),Blizzards,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No
+229,BGC (2016) (MB) (Churchill),Ice Storm,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No
+230,BGC (2016) (MB) (Churchill),Hail,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No
+231,BGC (2016) (MB) (Churchill),Gust,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No
+232,BGC (2016) (MB) (Churchill),Wind,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No
+233,BGC (2016) (MB) (Churchill),Freezing Rain,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No
+234,BGC (2016) (MB) (Churchill),Rain on Snow,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No
+235,BGC (2016) (MB) (Churchill),Solar Radiation,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No
+236,BGC (2016) (MB) (Churchill),Cloud Ceiling Height,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No
+237,BGC (2016) (MB) (Churchill),Fog,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No
+238,BGC (2016) (MB) (Churchill),Lightning,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No
+239,KWL (2019) (BC) (Squamish),Fire,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+240,KWL (2019) (BC) (Squamish),Temperature,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+241,KWL (2019) (BC) (Squamish),Sea level,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+242,KWL (2019) (BC) (Squamish),Storms,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+243,KWL (2019) (BC) (Squamish),Wind,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+244,KWL (2019) (BC) (Squamish),Waves,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+245,KWL (2019) (BC) (Squamish),Ocean Acidification,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+246,KWL (2019) (BC) (Squamish),Flooding,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+247,KWL (2019) (BC) (Squamish),Overtopping,Yes,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+248,WSP (2019) (BC) (Tofino),Precipitation,No,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,No
+249,WSP (2019) (BC) (Tofino),Wind,No,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,No
+250,WSP (2019) (BC) (Tofino),Gust,No,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,No
+251,WSP (2019) (BC) (Tofino),Sea level,No,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,No
+252,WSP (2019) (BC) (Tofino),Storms,No,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,No
+253,WSP (2019) (BC) (Tofino),Temperature,No,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,No
+254,WSP (2019) (BC) (Tofino),Drought,No,Yes,No,Yes,No,No,No,No,No,No,No,No,No,No,No
+255,CIMA (2020) (QC) (Shawinigan),Temperature,No,Yes,No,No,No,Yes,No,Yes,Yes,No,Yes,No,Yes,No,No
+256,CIMA (2020) (QC) (Shawinigan),Precipitation,No,Yes,No,No,No,Yes,No,Yes,Yes,No,Yes,No,Yes,No,No
+257,CIMA (2020) (QC) (Shawinigan),Wind,No,Yes,No,No,No,Yes,No,Yes,Yes,No,Yes,No,Yes,No,No
+258,CIMA (2020) (QC) (Shawinigan),Freeze-Thaw,No,Yes,No,No,No,Yes,No,Yes,Yes,No,Yes,No,Yes,No,No
+259,CIMA (2020) (QC) (Shawinigan),Snow,No,Yes,No,No,No,Yes,No,Yes,Yes,No,Yes,No,Yes,No,No
+260,CIMA (2020) (QC) (Shawinigan),Ice Storm,No,Yes,No,No,No,Yes,No,Yes,Yes,No,Yes,No,Yes,No,No
+261,CIMA (2020) (QC) (Shawinigan),Lightning,No,Yes,No,No,No,Yes,No,Yes,Yes,No,Yes,No,Yes,No,No
+262,CIMA (2020) (QC) (Laval),Temperature,No,Yes,No,No,No,Yes,No,Yes,Yes,No,Yes,No,Yes,No,No
+263,CIMA (2020) (QC) (Laval),Precipitation,No,Yes,No,No,No,Yes,No,Yes,Yes,No,Yes,No,Yes,No,No
+264,CIMA (2020) (QC) (Laval),Wind,No,Yes,No,No,No,Yes,No,Yes,Yes,No,Yes,No,Yes,No,No
+265,CIMA (2020) (QC) (Laval),Freeze-Thaw,No,Yes,No,No,No,Yes,No,Yes,Yes,No,Yes,No,Yes,No,No
+266,CIMA (2020) (QC) (Laval),Snow,No,Yes,No,No,No,Yes,No,Yes,Yes,No,Yes,No,Yes,No,No
+267,CIMA (2020) (QC) (Laval),Ice Storm,No,Yes,No,No,No,Yes,No,Yes,Yes,No,Yes,No,Yes,No,No
+268,CIMA (2020) (QC) (Laval),Lightning,No,Yes,No,No,No,Yes,No,Yes,Yes,No,Yes,No,Yes,No,No
+269,Stantec (2019) (QC) (Quebec City),Precipitation,No,Yes,No,No,No,Yes,Yes,No,Yes,No,Yes,No,Yes,No,Yes
+270,Stantec (2019) (QC) (Quebec City),Temperature,No,Yes,No,No,No,Yes,Yes,No,Yes,No,Yes,No,Yes,No,Yes
+271,Stantec (2019) (QC) (Quebec City),Wind,No,Yes,No,No,No,Yes,Yes,No,Yes,No,Yes,No,Yes,No,Yes
+272,Stantec (2019) (QC) (Quebec City),Storms,No,Yes,No,No,No,Yes,Yes,No,Yes,No,Yes,No,Yes,No,Yes
+273,Stantec (2019) (QC) (Quebec City),Freeze-Thaw,No,Yes,No,No,No,Yes,Yes,No,Yes,No,Yes,No,Yes,No,Yes
+274,WSP (2022) (AB) (Forest Lawn),Flooding,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+275,WSP (2022) (AB) (Forest Lawn),Winter Storm,No,No,No,No,No,Yes,No,Yes,Yes,No,Yes,No,Yes,No,Yes
+276,WSP (2022) (AB) (Forest Lawn),Summer Storm,No,No,No,No,No,Yes,Yes,Yes,Yes,No,No,No,Yes,No,Yes
+277,WSP (2022) (AB) (Forest Lawn),Hail,No,No,No,No,No,No,No,Yes,Yes,No,Yes,No,Yes,No,Yes
+278,WSP (2022) (AB) (Forest Lawn),Lightning,No,No,No,No,No,No,No,Yes,Yes,No,Yes,No,Yes,No,Yes
+279,WSP (2022) (AB) (Forest Lawn),Wind,No,No,No,No,No,No,No,Yes,Yes,No,No,No,Yes,No,Yes
+280,WSP (2022) (AB) (Forest Lawn),Fire,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,Yes
+281,WSP (2022) (AB) (Forest Lawn),Extreme Heat,No,No,No,No,No,No,No,Yes,Yes,No,Yes,No,Yes,No,Yes
+282,WSP (2022) (AB) (Forest Lawn),Drought,No,No,No,No,No,Yes,No,Yes,No,No,No,No,No,No,Yes
+283,WSP (2022) (AB) (Forest Lawn),Temperature,No,No,No,No,No,No,No,Yes,No,No,No,No,Yes,No,Yes
+284,WSP (2022) (AB) (Forest Lawn),Shifting Seasonss,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,No
+285,WSP (2022) (AB) (Forest Lawn),Freeze-Thaw,No,No,No,No,No,Yes,Yes,Yes,Yes,No,No,No,Yes,No,No
+286,Dillon (2022) (AB),Extreme Heat,No,Yes,No,No,No,No,No,Yes,No,No,Yes,No,No,No,Yes
+287,Dillon (2022) (AB),Temperature,No,Yes,No,No,No,No,No,Yes,No,No,Yes,No,No,No,Yes
+288,Dillon (2022) (AB),Fire,No,Yes,No,No,No,No,No,Yes,No,No,Yes,No,No,No,Yes
+289,Dillon (2022) (AB),Drought,No,Yes,No,No,No,No,No,Yes,No,No,Yes,No,No,No,Yes
+290,Dillon (2022) (AB),Rainfall,No,Yes,No,No,No,Yes,No,Yes,No,No,Yes,No,No,No,Yes
+291,Dillon (2022) (AB),Storms,No,Yes,No,No,No,Yes,No,Yes,No,No,Yes,No,No,No,Yes
+292,Dillon (2022) (AB),Wind,No,Yes,No,No,No,No,No,Yes,No,No,Yes,No,No,No,Yes
+293,Dillon (2022) (AB),Snow,No,Yes,No,No,No,Yes,No,Yes,No,No,Yes,No,No,No,No
+294,Integral Group (2022) (AB),Temperature,No,Yes,No,No,No,No,Yes,Yes,Yes,No,Yes,No,Yes,No,No
+295,Integral Group (2022) (AB),Extreme Heat,No,Yes,No,No,No,No,Yes,Yes,Yes,No,Yes,No,Yes,No,Yes
+296,Integral Group (2022) (AB),Drought,No,Yes,No,No,No,No,Yes,Yes,Yes,No,No,No,No,No,Yes
+297,Integral Group (2022) (AB),Fire,No,Yes,No,No,No,No,No,No,Yes,No,Yes,No,Yes,No,Yes
+298,Integral Group (2022) (AB),SDHI Storms,No,Yes,No,No,No,Yes,No,Yes,Yes,No,Yes,No,Yes,No,Yes
+299,Integral Group (2022) (AB),Flooding,No,No,No,No,No,Yes,Yes,No,Yes,Yes,Yes,No,Yes,No,Yes
+300,Integral Group (2022) (AB),Winter Storms,No,Yes,No,No,No,Yes,Yes,No,Yes,No,Yes,No,Yes,No,Yes
+301,Integral Group (2022) (AB),Storms,No,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,Yes,No,Yes,No,Yes
+302,Stantec (2023) (AB) (Manchester Complex),Extreme Heat,No,Yes,No,Yes,No,Yes,No,No,Yes,No,No,No,No,No,Yes
+303,Stantec (2023) (AB) (Manchester Complex),Extreme Cold,No,Yes,No,Yes,No,Yes,No,No,Yes,No,No,No,No,No,Yes
+304,Stantec (2023) (AB) (Manchester Complex),Temperature,No,Yes,No,Yes,No,Yes,No,No,Yes,No,No,No,No,No,Yes
+305,Stantec (2023) (AB) (Manchester Complex),Fire,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Yes
+306,Stantec (2023) (AB) (Manchester Complex),Drought,No,Yes,No,Yes,No,Yes,No,No,Yes,No,No,No,No,No,Yes
+307,Stantec (2023) (AB) (Manchester Complex),Rainfall,No,Yes,No,Yes,No,Yes,No,No,Yes,No,No,No,No,No,Yes
+308,Stantec (2023) (AB) (Manchester Complex),Snow,No,Yes,No,Yes,No,Yes,No,No,Yes,No,No,No,No,No,Yes
+309,Stantec (2023) (AB) (Manchester Complex),Lightning,No,Yes,No,Yes,No,Yes,No,No,Yes,No,No,No,No,No,Yes
+310,Stantec (2023) (AB) (Manchester Complex),Hail,No,Yes,No,Yes,No,Yes,No,No,Yes,No,No,No,No,No,Yes
+311,Stantec (2023) (AB) (Manchester Complex),Wind ,No,Yes,No,Yes,No,Yes,No,No,Yes,No,No,No,No,No,Yes
+312,Stantec (2023) (AB) (Manchester Complex),Freeze-Thaw,No,Yes,No,Yes,No,Yes,No,No,Yes,No,No,No,No,No,Yes
+313,Stantec (2023) (AB) (Arts Center),Temperature,No,No,No,Yes,No,No,No,No,Yes,No,Yes,No,Yes,No,Yes
+314,Stantec (2023) (AB) (Arts Center),Extreme Heat,No,No,No,Yes,No,No,No,No,Yes,No,Yes,No,Yes,No,Yes
+315,Stantec (2023) (AB) (Arts Center),Fire,No,No,No,No,No,No,No,No,Yes,No,Yes,No,Yes,No,Yes
+316,Stantec (2023) (AB) (Arts Center),Drought,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+317,Stantec (2023) (AB) (Arts Center),Rainfall,No,Yes,No,Yes,No,Yes,No,No,Yes,No,Yes,No,Yes,No,Yes
+318,Stantec (2023) (AB) (Arts Center),Flooding,No,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No
+319,Stantec (2023) (AB) (Arts Center),Snow,No,Yes,No,Yes,No,No,No,No,Yes,No,Yes,No,Yes,No,Yes
+320,Stantec (2023) (AB) (Arts Center),Lightning,No,No,No,Yes,No,No,No,No,Yes,No,Yes,No,Yes,No,Yes
+321,Stantec (2023) (AB) (Arts Center),Hail,No,No,No,Yes,No,No,No,No,Yes,No,Yes,No,Yes,No,Yes
+322,Stantec (2023) (AB) (Arts Center),Wind ,No,No,No,Yes,No,No,No,No,Yes,No,Yes,No,Yes,No,Yes
+323,Stantec (2023) (AB) (Arts Center),Extreme Cold,No,Yes,No,Yes,No,No,No,Yes,Yes,No,Yes,No,Yes,No,Yes
+324,Stantec (2023) (AB) (Arts Center),Freeze-Thaw,No,No,No,Yes,No,No,No,No,Yes,No,Yes,No,Yes,No,Yes
+325,Stantec (2022) (AB),Extreme Heat,No,Yes,No,No,No,No,No,Yes,No,No,Yes,No,No,No,Yes
+326,Stantec (2022) (AB),Temperature,No,Yes,No,No,No,No,No,Yes,No,No,No,No,No,No,Yes
+327,Stantec (2022) (AB),Fire,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,Yes
+328,Stantec (2022) (AB),Drought,No,No,No,No,No,Yes,Yes,Yes,No,No,No,No,No,No,No
+329,Stantec (2022) (AB),Rainfall,No,Yes,No,No,No,Yes,No,Yes,No,No,Yes,No,No,No,Yes
+330,Stantec (2022) (AB),Storms,No,Yes,No,No,No,Yes,No,Yes,No,No,Yes,No,No,No,Yes
+331,Stantec (2022) (AB),Wind,No,Yes,No,No,No,Yes,No,Yes,No,No,Yes,No,No,No,Yes
+332,Stantec (2022) (AB),Flooding,No,Yes,No,No,No,Yes,No,Yes,No,No,Yes,No,No,No,Yes
+333,Stantec (2022) (AB),Snow,No,Yes,No,No,No,Yes,Yes,Yes,No,No,Yes,No,No,No,Yes
+334,Stantec (2023) (AB) (Village Square),Temperature,No,Yes,No,No,No,No,Yes,Yes,Yes,No,No,No,Yes,No,Yes
+335,Stantec (2023) (AB) (Village Square),Extreme Heat,No,Yes,No,No,No,Yes,Yes,Yes,Yes,No,Yes,No,Yes,No,Yes
+336,Stantec (2023) (AB) (Village Square),Fire,No,No,No,No,No,No,No,No,Yes,No,No,No,Yes,No,Yes
+337,Stantec (2023) (AB) (Village Square),Drought,No,No,No,No,No,No,Yes,Yes,No,No,No,No,No,No,Yes
+338,Stantec (2023) (AB) (Village Square),Rainfall,No,Yes,No,Yes,No,Yes,No,Yes,Yes,No,Yes,No,Yes,No,Yes
+339,Stantec (2023) (AB) (Village Square),Flooding,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No
+340,Stantec (2023) (AB) (Village Square),Snow,No,Yes,No,Yes,No,Yes,No,Yes,Yes,No,No,No,Yes,No,Yes
+341,Stantec (2023) (AB) (Village Square),Lightning,No,Yes,No,Yes,No,Yes,No,Yes,Yes,No,Yes,No,Yes,No,Yes
+342,Stantec (2023) (AB) (Village Square),Hail,No,Yes,No,Yes,No,Yes,No,Yes,Yes,No,Yes,No,Yes,No,Yes
+343,Stantec (2023) (AB) (Village Square),Wind,No,Yes,No,No,No,Yes,No,Yes,Yes,No,Yes,No,Yes,No,Yes
+344,Stantec (2023) (AB) (Village Square),Extreme Cold,No,Yes,No,No,No,Yes,Yes,Yes,Yes,No,No,No,Yes,No,Yes
+345,Stantec (2023) (AB) (Village Square),Freeze-Thaw,No,Yes,No,No,No,Yes,Yes,Yes,Yes,No,No,No,Yes,No,Yes
+346,WSP (2022) (AB) (Transit),Extreme Heat,No,Yes,No,No,No,No,No,Yes,Yes,No,Yes,No,Yes,No,Yes
+347,WSP (2022) (AB) (Transit),Temperature,No,Yes,No,No,No,Yes,Yes,No,Yes,No,Yes,No,Yes,No,No
+348,WSP (2022) (AB) (Transit),Fire,No,No,No,No,No,No,No,No,No,No,No,No,Yes,No,Yes
+349,WSP (2022) (AB) (Transit),Drought,No,No,No,No,No,No,No,Yes,No,No,No,No,No,No,Yes
+350,WSP (2022) (AB) (Transit),Rainfall,No,Yes,No,No,No,Yes,Yes,Yes,Yes,No,Yes,No,Yes,No,Yes
+351,WSP (2022) (AB) (Transit),Storms,No,No,No,No,No,No,No,Yes,Yes,No,Yes,No,Yes,No,Yes
+352,WSP (2022) (AB) (Transit),Wind,No,Yes,No,No,No,No,No,Yes,Yes,No,Yes,No,Yes,No,Yes
+353,WSP (2022) (AB) (Transit),Snow,No,Yes,No,No,No,Yes,Yes,Yes,Yes,No,Yes,No,Yes,No,Yes
+354,WSP (2021) (NB) (Saint John),Freeze-Thaw,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No
+355,WSP (2021) (NB) (Saint John),Precipitation,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No
+356,WSP (2021) (NB) (Saint John),Flooding,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No
+357,WSP (2021) (NB) (Saint John),Temperature,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No
+358,WSP (2021) (NB) (Saint John),Freezing Rain,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No
+359,WSP (2021) (NB) (Saint John),Snow,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No
+360,WSP (2021) (NB) (Saint John),Wind,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No
+361,WSP (2021) (NB) (Saint John),Freeze-Thaw,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No
+362,WSP (2021) (NB) (Saint John),Fire,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No
+363,WSP (2021) (NB) (Saint John),Lightning,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No
+364,WSP (2021) (NB) (Saint John),Max Temperature,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No
+365,WSP (2021) (NB) (Saint John),Cooling Degree Days,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No
+366,WSP (2021) (NB) (Saint John),Min Temperature,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No
+367,WSP (2021) (NB) (Saint John),Drought,No,No,No,No,No,No,No,No,No,No,No,Yes,No,No,No

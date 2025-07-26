@@ -1,0 +1,230 @@
+_id,Study,Team Member,Role,Organization
+0,Prism Engineering (2020) (BC) (Penticton),Ainaz Bozorgzadeh,Project Manager,Prism Engineering
+1,Prism Engineering (2020) (BC) (Penticton),Stephen Kooiman,Senior Mechanical Engineer,Prism Engineering
+2,Prism Engineering (2020) (BC) (Penticton),Adam Franklin,Electrical Engineer,Prism Engineering
+3,Prism Engineering (2020) (BC) (Penticton),Trevor Murdock,Climate Scientist,Pacific Climate Impacts Consortium
+4,Prism Engineering (2020) (BC) (Penticton),Jim Chan,"Regional Manager, Program and Technical Services",Transport Canada
+5,Prism Engineering (2020) (BC) (Penticton),Suzanne L'Heureux,"Project Lead, Environmental Services",Transport Canada
+6,Stantec (2020) (ON) (Kasabonika),Guy Fï¿½ï¿,Senior Advisor,Stantec
+7,Stantec (2019) (SK) (Yellow Quill),Community members attending workshops,NAN,Yellow Quill First Nation
+8,Stantec (2019) (SK) (Yellow Quill),Guy Fï¿½ï¿,Senior Advisor,Stantec
+9,Stantec (2019) (SK) (Yellow Quill),Riley Morris,Climate Specialist,Stantec
+10,WSP (2019) (YT) (Faro),Germaine Cave,Report Author / Project Analyst,WSP Canada Inc.
+11,WSP (2019) (YT) (Faro),Jean-Philippe Martin,Climate Change Risk Specialist,WSP Canada Inc.
+12,Stantec (2019) (ON) (Multi),Greg Bell,"Manager, Distribution Operations",Hydro Ottawa
+13,Stantec (2019) (ON) (Multi),Daniel Hegg,Climate Change Adaptation Advisor,Stantec
+14,Stantec (2019) (ON) (Multi),Riley Morris,Environmental Engineer,Stantec
+15,Stantec (2019) (ON) (Multi),Eric Lafleur,Senior Electrical Engineer,Stantec
+16,AECOM (2019) (ON) (Toronto),Michael Antle,General Manager,PortsToronto
+17,AECOM (2019) (ON) (Toronto),Alan Winter,Technical Advisor/Airports,AECOM
+18,AECOM (2019) (ON) (Toronto),Derek Gray,Vulnerability Assessment Lead,AECOM
+19,AECOM (2019) (ON) (Toronto),Marc Rose,Project Manager,AECOM
+20,AECOM (2019) (ON) (Toronto),Milo Sturm,NAN,Shoreplan Engineering Limited
+21,Stantec (2018) (ON) (Oneida),Guy Fï¿½ï¿,Senior Advisor,Stantec
+22,Stantec (2018) (ON) (Moose Factory),Stan Kapashesit,Director of Economic Development,Moose Factory
+23,Stantec (2018) (ON) (Moose Factory),Elmer Lickers,Senior O&M Advisor,OFNTSC
+24,Stantec (2018) (ON) (Moose Factory),Guy Fï¿½ï¿,Senior Advisor,Stantec
+25,Stantec (2017) (ON) (Akwesasne),John Tate Lazore,Water and Wastewater Manager,Mohawk Council of Akwesasne
+26,RVA (2017) (ON) (Ottawa),Hans Arisz,Principal,RVA
+27,CBCL (2020) (NS) (Caribou),NAN,NAN,UPEI-Climate Research Lab
+28,CBCL (2020) (NS) (Caribou),NAN,NAN,Emergency Response Management Consulting (ERMC).
+29,CBCL (2020) (QC) (Cap-aux-Meules),NAN,NAN,UPEI-Climate Research Lab
+30,WSP (2019) (PEI) (Summerside),Yann Chavaillaz,Climate Change Specialist,WSP Canada Inc.
+31,WSP (2019) (PEI) (Summerside),Simon Pelchat,Solar Power,WSP Canada Inc.
+32,CBCL (2020) (NB) (Belledune),JH Consultants,NAN,JH Consultants
+33,CBCL (2020) (NB) (Saint John),NAN,NAN,Emergency Response Management Consulting (ERMC).
+34,BGC (2016) (MB) (Churchill),Nemanja Jevtovic,Providing Data,Transport Canada
+35,WSP (2019) (BC) (Tofino),Elise Parï¿,Senior Project Manager,WSP Canada Inc.
+36,WSP (2019) (BC) (Tofino),Al Gibb,"Project Director, Design Team",WSP Canada Inc.
+37,WSP (2019) (BC) (Tofino),Tyler Barber,"Wastewater Engineer, Design Team",WSP Canada Inc.
+38,WSP (2019) (BC) (Tofino),Ricardo Araya,Manager of Engineering and Public Works,District of Tofino
+39,WSP (2019) (BC) (Tofino),Bob MacPherson,Chief Administrative Officer,District of Tofino
+40,CIMA (2020) (QC) (Shawinigan),Laurence Blondeau Bouchard,Hydroclimatology,CIMA+
+41,CIMA (2020) (QC) (Shawinigan),Franï¿½ï¿½ois Courv,Landscape Architect,CIMA+
+42,CIMA (2020) (QC) (Shawinigan),Caroline Rochette-Carbonneau,Civil,CIMA+
+43,CIMA (2020) (QC) (Shawinigan),Robin Beaulieu,Electerical,CIMA+
+44,CIMA (2020) (QC) (Laval),Laurence Blondeau Bouchard,Hydroclimatology,CIMA+
+45,Stantec (2019) (QC) (Quebec City),Gabriel Jean,NAN,BGIS
+46,Prism Engineering (2020) (BC) (Penticton),David Roberts,Mechanical Engineer,Prism Engineering
+47,Prism Engineering (2020) (BC) (Penticton),Dirk Nyland,Transportation Modal Expert,BC Ministry of Transportation and Infrastructure (Retired)
+48,Prism Engineering (2020) (BC) (Penticton),Kimberly Keskinen,"Project Support, Environmental Services",Transport Canada
+49,Prism Engineering (2020) (BC) (Penticton),Adrien Montpetit,Policy Advisor,Transport Canada
+50,Stantec (2020) (ON) (Kasabonika),Mike Morris,Community Coordinator,Kasabonika Lake First Nation
+51,Stantec (2020) (ON) (Kasabonika),NAN,"Chief, councillors and community members attending workshops",Kasabonika Lake First Nation
+52,Stantec (2020) (ON) (Kasabonika),Elmer Lickers,Senior O&M Advisor,Ontario First Nations Technical Services Corporation
+53,Novel Futures Corporation and RSI (2019) (MB) (Altona),Neil Comer,Senior Climatologist,RSI
+54,Novel Futures Corporation and RSI (2019) (MB) (Altona),Simon Eng,Project Lead and Analyst,RSI
+55,Stantec (2019) (SK) (Yellow Quill),Myron Neapetung,Councillor,Yellow Quill First Nation
+56,Stantec (2019) (SK) (Yellow Quill),Wayne Penno,Senior Engineer,Stantec
+57,Stantec (2019) (ON) (Multi),Matthew McGrath,Project Manager,Hydro Ottawa
+58,Stantec (2019) (ON) (Multi),Guy Fï¿½ï¿,Climate Change Resilience Advisor,Stantec
+59,Stantec (2019) (ON) (Multi),Heather Auld,Climatologist,RSI
+60,Landmark (2019) (ON) (Windsor),David T. Killen,Project Principal,Landmark Engineers Inc.
+61,AECOM (2019) (ON) (Toronto),Bojan Drakul,Manager ,PortsToronto
+62,Stantec (2018) (ON) (Oneida),H. Grant Doxtator,Councillor,Oneida Nation of the Thames
+63,Stantec (2018) (ON) (Oneida),Chanda Kennedy,Band Administrator,Oneida Nation of the Thames
+64,Stantec (2018) (ON) (Oneida),Elmer Lickers,Senior O&M Advisor,OFNTSC
+65,Stantec (2020) (QC) (Magdalen Islands),NAN,NAN,NAN
+66,Stantec (2017) (ON) (Akwesasne),Jay Benedict,Director Technical Services,Mohawk Council of Akwesasne
+67,WSP (2019) (PEI) (Summerside),Katherine Park,Development Manager,Samsung Renewable Energy
+68,WSP (2019) (PEI) (Summerside),Sean Kim,Senior Manager,Samsung Renewable Energy
+69,CBCL (2019) (NS) (Digby),NAN,NAN,Emergency Response Management Consulting (ERMC).
+70,BGC (2016) (MB) (Churchill),Jenna Craig,Providing Data,Transport Canada
+71,BGC (2016) (MB) (Churchill),Janice Festa,Providing Data,Transport Canada
+72,WSP (2019) (BC) (Tofino),Jean Phillipe Martin,Climate Change Risk Specialist,WSP Canada Inc.
+73,WSP (2019) (BC) (Tofino),Paul Munday,Quality Assurance,WSP Canada Inc.
+74,WSP (2019) (BC) (Tofino),Brian Walker,Conveyance Upgrade Lead Designer,WSP Canada Inc.
+75,WSP (2019) (BC) (Tofino),Nyla Attiana,Director of Financial Services,District of Tofino
+76,CIMA (2020) (QC) (Laval),Charles Fleury-Caumartin,Mechanical,CIMA+
+77,CIMA (2020) (QC) (Laval),Felipe Caldeira,Civil,CIMA+
+78,CIMA (2020) (QC) (Laval),Marie-ï¿½ï¿½ve Laro,Civil,CIMA+
+79,CIMA (2020) (QC) (Laval),Yves Lï¿½ï¿½ve,Structure,CIMA+
+80,CIMA (2020) (QC) (Laval),Franï¿½ï¿½ois Ca,Architecture,CIMA+
+81,CIMA (2020) (QC) (Laval),Franï¿½ï¿½ois Courv,Landscape Architect,CIMA+
+82,CIMA (2020) (QC) (Laval),Mathieu Lemay,Hydroclimatology,CIMA+
+83,Stantec (2019) (QC) (Quebec City),Steve Bernardi,NAN,Stantec
+84,Stantec (2019) (QC) (Quebec City),Julie Massicotte,NAN,Stantec
+85,Prism Engineering (2020) (BC) (Penticton),Alexis Doyle,Sustainability Engagement Specialist,Prism Engineering
+86,Prism Engineering (2020) (BC) (Penticton),Kerri Haybittle-Raffel,"Manager, Penticton Airport",Transport Canada
+87,Urban Systems (2019) (BC) (Vernon),Glen Zachary,Hydrology and Hydraulics Engineer,Urban Systems
+88,Stantec (2020) (ON) (Kasabonika),Elton Mitchell Diabo,Councillor,Kasabonika Lake First Nation
+89,Stantec (2020) (ON) (Kasabonika),Zoe Morrison,Planner,Stantec
+90,Stantec (2019) (SK) (Yellow Quill),Lori Bradford,Assistant Professor,University of Saskatchewan
+91,Stantec (2019) (ON) (Multi),Ben Hazlett,"Manager, Distribution Policies and Standards",Hydro Ottawa
+92,Stantec (2019) (ON) (Multi),Nicole Flanagan,Project Manager,Stantec
+93,Stantec (2019) (ON) (Multi),Simon Eng,Climate Analyst,RSI
+94,AECOM (2019) (ON) (Toronto),Mike Riehl,Manager,PortsToronto
+95,AECOM (2019) (ON) (Toronto),Ahmed Elhadidy,Vulnerability Assessment Technical Support,AECOM
+96,AECOM (2019) (ON) (Toronto),Matthew Lee,Vulnerability Assessment Technical Support,AECOM
+97,City of Thunder Bay (2019) (ON) (Thunder Bay),Amy Coomes,Sustainability Coordinator,City of Thunder Bay
+98,Stantec (2018) (ON) (Oneida),Ron Elijah,I/Public Works Administrato,Oneida Nation of the Thames
+99,Stantec (2018) (ON) (Moose Factory),Wayne Penno,Senior Engineer,Stantec
+100,Stantec (2018) (ON) (Moose Factory),Heather Auld,Climatologist,RSI
+101,Stantec (2017) (ON) (Akwesasne),Elmer Lickers,Senior O&M Advisor (Project Director),OFNTSC
+102,Stantec (2017) (ON) (Akwesasne),Leslie Papineau,Technical Project Manager,Mohawk Council of Akwesasne
+103,Stantec (2017) (ON) (Akwesasne),Guy Fï¿½ï¿,Senior Advisor,Stantec
+104,Stantec (2017) (ON) (Akwesasne),Eric Dunford,Strategic Management Consultant,Stantec
+105,Stantec (2017) (ON) (Akwesasne),Heather Auld,Climatologist,RSI
+106,CBCL (2020) (PEI) (Souris),NAN,NAN,UPEI-Climate Research Lab
+107,WSP (2019) (PEI) (Summerside),Ena Ristic,Climate Change Specialist,WSP Canada Inc.
+108,WSP (2019) (PEI) (Summerside),Jean-Philippe Martin,Climate Change Specialist,WSP Canada Inc.
+109,WSP (2019) (PEI) (Summerside),Elise Parï¿,Climate Resilience QA/QC,WSP Canada Inc.
+110,WSP (2019) (PEI) (Summerside),Alexandre Pï¿½ï¿½pin-,Solar Power,WSP Canada Inc.
+111,WSP (2019) (PEI) (Summerside),Greg Gaudet,Director of Municipal Services,City of Summerside
+112,WSP (2019) (PEI) (Summerside),Mike Thususka,Director of Economic Development,City of Summerside
+113,CBCL (2020) (NB) (Belledune),Roy Consultants,NAN,Roy Consultants
+114,CBCL (2020) (NB) (Saint John),NAN,NAN,UPEI-Climate Research Lab
+115,KWL (2019) (BC) (Squamish),Robin Hawker,NAN,KWL
+116,WSP (2019) (BC) (Tofino),Carol Campbell,Report Author,WSP Canada Inc.
+117,WSP (2019) (BC) (Tofino),Aline Bennett,Design Team Project Coordinator,WSP Canada Inc.
+118,WSP (2019) (BC) (Tofino),Roger Warren,"Project Manager, Design Team",WSP Canada Inc.
+119,WSP (2019) (BC) (Tofino),Keith Orchisto,Emergency Program Coordinator,District of Tofino
+120,CIMA (2020) (QC) (Shawinigan),Marie-Frï¿½ï¿½dï¿½ï¿½rique,Project Coordinator,CIMA+
+121,CIMA (2020) (QC) (Shawinigan),Martin St-Laurent,Civil,CIMA+
+122,CIMA (2020) (QC) (Laval),Svetlana Zdanovich,Mechanical,CIMA+
+123,CIMA (2020) (QC) (Laval),Robin Beaulieu,Electerical,CIMA+
+124,CIMA (2020) (QC) (Laval),Steve Godin,Structure,CIMA+
+125,Stantec (2019) (QC) (Quebec City),Laure Gï¿½ï¿½,NAN,SPAC
+126,Stantec (2019) (QC) (Quebec City),Louis Cotte,NAN,SPAC
+127,Stantec (2019) (QC) (Quebec City),Natalie Bleau,NAN,Ouranos
+128,Prism Engineering (2020) (BC) (Penticton),Stephen Lai,Programs Implementation Manager,Transport Canada
+129,Prism Engineering (2020) (BC) (Penticton),Allison Kader,"Policy Analyst, Environmental Policy",Transport Canada
+130,Stantec (2020) (ON) (Kasabonika),Operations and Maintenance staff,O & M,Kasabonika Lake First Nation
+131,Stantec (2020) (ON) (Kasabonika),Wayne Penno,Senior Engineer,Stantec
+132,Stantec (2020) (ON) (Kasabonika),Heather Auld,Climatologist,RSI
+133,Novel Futures Corporation and RSI (2019) (MB) (Altona),Darren Swanson,Project Principal,Novel Futures
+134,CBCL (2020) (PEI) (Wood Islands),NAN,NAN,UPEI Climate Research Lab
+135,CBCL (2020) (PEI) (Wood Islands),NAN,NAN,Emergency Response Management Consulting (ERMC).
+136,Stantec (2019) (SK) (Yellow Quill),Lalita Bharadwaj,Associate Professor,University of Saskatchewan
+137,Stantec (2019) (SK) (Yellow Quill),Elmer Lickers,Senior O&M Advisor,Ontario First Nations Technical Services Corporation
+138,WSP (2019) (YT) (Faro),Elise Parï¿,Project Principal / PIEVC Protocol Advisor,WSP Canada Inc.
+139,WSP (2019) (YT) (Faro),Virginia Sarrazin,Project Manager,WSP Canada Inc.
+140,WSP (2019) (YT) (Faro),Ena Ristic,Climate Change Scientist,WSP Canada Inc.
+141,WSP (2019) (YT) (Faro),Brian Mowry,Civil and Municipal Infrastructure Specialist,WSP Canada Inc.
+142,Stantec (2019) (ON) (Multi),Ed Donkersteeg,Supervisor - Standards,Hydro Ottawa
+143,Stantec (2019) (ON) (Multi),Norman Shippee,Climatologist,RSI
+144,Stantec (2019) (ON) (Multi),Katherine Pingree-Shippee,Climatologist,RSI
+145,AECOM (2019) (ON) (Toronto),Christopher Sawicki,Vice President,PortsToronto
+146,AECOM (2019) (ON) (Toronto),Eric Piitz,Port Engineer,PortsToronto
+147,AECOM (2019) (ON) (Toronto),Mike Dwyer,Manager,PortsToronto
+148,Stantec (2018) (ON) (Oneida),Jenelle Cornelius,Environmental Technologist,Oneida Nation of the Thames
+149,Stantec (2018) (ON) (Oneida),Randy Doxtator,"Housing Advisor, Technical Services",Southern First Nations Secretariat
+150,Stantec (2018) (ON) (Oneida),Heather Auld,Climatologist,RSI
+151,Stantec (2018) (ON) (Moose Factory),Abel Wapachee,Director of Public Works,Moose Factory
+152,Stantec (2018) (ON) (Moose Factory),Chris Seguin,"Project Officer, Mushkegowuk Council Technical Services",Mushkegowuk Council
+153,RSI (2018) (ON) (Mississauga),NAN,NAN,NAN
+154,Stantec (2017) (ON) (Akwesasne),Bill Maloney,Climate Change Officer,OFNTSC
+155,Stantec (2017) (ON) (Akwesasne),Henry Lickers,Director Environmental Services,Mohawk Council of Akwesasne
+156,Stantec (2017) (ON) (Akwesasne),Amanda Lynch,Water Resources Engineer,Stantec
+157,Stantec (2017) (ON) (Akwesasne),Alexandre Mineault-Guitard,Environmental Engineering Intern,Stantec
+158,CBCL (2020) (PEI) (Souris),NAN,NAN,Emergency Response Management Consulting (ERMC).
+159,CBCL (2020) (QC) (Cap-aux-Meules),NAN,NAN,Emergency Response Management Consulting (ERMC).
+160,CBCL (2019) (NS) (Digby),NAN,NAN,UPEI-Climate Research Lab
+161,BGC (2016) (MB) (Churchill),Jack Seto,Climate Change Vulnerability Assessment,BGC
+162,BGC (2016) (MB) (Churchill),Lukas Arenson,Climate Change Vulnerability Assessment,BGC
+163,BGC (2016) (MB) (Churchill),Midori Telles-Langdon,Climate Change Vulnerability Assessment,BGC
+164,CIMA (2020) (QC) (Shawinigan),Franï¿½ï¿½ois Ca,Architecture,CIMA+
+165,CIMA (2020) (QC) (Shawinigan),Christian Gagnon,Project Coordinator,CIMA+
+166,CIMA (2020) (QC) (Shawinigan),Svetlana Zdanovich,Mechanical,CIMA+
+167,CIMA (2020) (QC) (Shawinigan),Steve Godin,Structure,CIMA+
+168,CIMA (2020) (QC) (Laval),Louis Caron,Architecture,CIMA+
+169,Stantec (2019) (QC) (Quebec City),Alain Fluet,NAN,BGIS
+170,Stantec (2019) (QC) (Quebec City),Guy Fï¿½ï¿,NAN,Stantec
+171,WSP (2022) (AB) (Forest Lawn),Aline Bennett,Senior Infrastructure Resilience Engineer,WSP Canada Inc.
+172,WSP (2022) (AB) (Forest Lawn),Craig Dedels,Project Manager,WSP Canada Inc.
+173,WSP (2022) (AB) (Forest Lawn), Jay Maloney,"Analyst, Climate Risk and Resilience",WSP Canada Inc.
+174,WSP (2022) (AB) (Forest Lawn),Yann Chavaillaz,Climate Scientist,WSP Canada Inc.
+175,WSP (2022) (AB) (Forest Lawn),Charles-Antoine Gosselin,Climate Change Economist,WSP Canada Inc.
+176,WSP (2022) (AB) (Forest Lawn),Pippa Cookson-Hills ,CRRA Project Manager,City of Calgary
+177,WSP (2022) (AB) (Forest Lawn),Julie Brache,Project Manager,City of Calgary
+178,WSP (2022) (AB) (Forest Lawn),Jill Curley,Climate Adaptation Specialist,City of Calgary
+179,WSP (2022) (AB) (Forest Lawn),B&A Planning Group,NAN,FOREST LAWN MULTIPLEX DESIGN
+180,WSP (2022) (AB) (Forest Lawn),Kasian Architecture,NAN,FOREST LAWN MULTIPLEX DESIGN
+181,Dillon (2022) (AB),Roger Rempel,Project Manager,Dillon Consulting Limited
+182,Integral Group (2022) (AB),Robin Hawker,NAN,Integral Group
+183,Integral Group (2022) (AB),Matt Grace,NAN,Integral Group
+184,Integral Group (2022) (AB),Anika Bell,NAN,Integral Group
+185,Stantec (2023) (AB) (Manchester Complex),Kimberly Stephenson,Climate Scientist,Stantec Consulting Ltd.
+186,Stantec (2023) (AB) (Manchester Complex),Daniel Hegg,Senior ESG & Climate Action Advisor,Stantec Consulting Ltd.
+187,Stantec (2023) (AB) (Manchester Complex),Wayne Penno,Senior Climate Risk Engineer,Stantec Consulting Ltd.
+188,Stantec (2023) (AB) (Manchester Complex),Norm Shippee,Senior Climate Scientist,Stantec Consulting Ltd.
+189,Stantec (2023) (AB) (Arts Center),Kimberly Stephenson,Climate Scientist,Stantec Consulting Ltd.
+190,Stantec (2023) (AB) (Arts Center),Daniel Hegg,Senior ESG & Climate Action Advisor,Stantec Consulting Ltd.
+191,Stantec (2023) (AB) (Arts Center),Wayne Penno,Senior Climate Risk Engineer,Stantec Consulting Ltd.
+192,Stantec (2023) (AB) (Arts Center),Norm Shippee,Senior Climate Scientist,Stantec Consulting Ltd.
+193,Stantec (2022) (AB),Dave Bigelow,NAN,Stantec Consulting Ltd.
+194,Stantec (2022) (AB),Daniel Hegg,Senior ESG & Climate Action Advisor,Stantec Consulting Ltd.
+195,Stantec (2022) (AB),Norm Shippee,Senior Climate Scientist,Stantec Consulting Ltd.
+196,Stantec (2023) (AB) (Village Square),Kimberly Stephenson,Climate Scientist,Stantec Consulting Ltd.
+197,Stantec (2023) (AB) (Village Square),Daniel Hegg,Senior ESG & Climate Action Advisor,Stantec Consulting Ltd.
+198,Stantec (2023) (AB) (Village Square),Wayne Penno,Senior Climate Risk Engineer,Stantec Consulting Ltd.
+199,Stantec (2023) (AB) (Village Square),Norm Shippee,Senior Climate Scientist,Stantec Consulting Ltd.
+200,WSP (2022) (AB) (Transit),Daniel Tse,"Advisor, Climate Risk and Resilience",WSP Canada Inc.
+201,WSP (2022) (AB) (Transit),Aline Bennett,Team Lead,WSP Canada Inc.
+202,WSP (2022) (AB) (Transit),Rebekah Richardson-Duffy,"Analyst, Climate Risk and Resilience",WSP Canada Inc.
+203,WSP (2022) (AB) (Transit),Kaitlynn Livingstone,"Advisor, Climate Risk and Resilience",WSP Canada Inc.
+204,WSP (2022) (AB) (Transit),Diana Soroaga,Project Manager,WSP Canada Inc.
+205,WSP (2022) (AB) (Transit),Sander Quartero,Transportation Subject Matter Expert,WSP Canada Inc.
+206,WSP (2022) (AB) (Transit),Steve Gundy,Mechanical Subject Matter Expert,WSP Canada Inc.
+207,WSP (2022) (AB) (Transit),Keith Rogers,Electrical Subject Matter Expert,WSP Canada Inc.
+208,WSP (2022) (AB) (Transit),Saadiq Mohiuddin,Project Engineer,City of Calgary
+209,WSP (2022) (AB) (Transit),Pippa Cookson-Hills,Climate Adaptation Specialist,City of Calgary
+210,WSP (2021) (NB) (Saint John),Aline Bennett,Project Manager,WSP Canada Inc.
+211,WSP (2021) (NB) (Saint John),Yann Chavaillaz,Climate Science Lead,WSP Canada Inc.
+212,WSP (2021) (NB) (Saint John),Joshua Horst,Aviation Lead ,WSP Canada Inc.
+213,WSP (2021) (NB) (Saint John),Ena Ristic,Climate Resilience Analyst,WSP Canada Inc.
+214,WSP (2021) (NB) (Saint John),Mikaela Comella,Climate Resilience Support,WSP Canada Inc.
+215,WSP (2021) (NB) (Saint John),Jamie Summers,Climate Science Support,WSP Canada Inc.
+216,WSP (2021) (NB) (Saint John),Patricia Vieira,Aviation Specialist,WSP Canada Inc.
+217,WSP (2021) (NB) (Saint John),Greg Ballentine,Aviation Specialist,WSP Canada Inc.
+218,WSP (2021) (NB) (Saint John),Elise Parï¿,Civil Engineer,WSP Canada Inc.
+219,WSP (2021) (NB) (Saint John),Chelsea Paton,Structural Engineer,WSP Canada Inc.
+220,WSP (2021) (NB) (Saint John),Craig Harrison,Mechanical Engineer,WSP Canada Inc.
+221,WSP (2021) (NB) (Saint John),Tyler Davidson,Electrical Engineer,WSP Canada Inc.
+222,WSP (2021) (NB) (Saint John),Alex McGowan,Building Science Specialist,WSP Canada Inc.
+223,WSP (2021) (NB) (Saint John),Jay Walmsley,Environmental Scientist,WSP Canada Inc.
+224,WSP (2021) (NB) (Saint John),Janine Maurice,Aviation Specialist,WSP Canada Inc.
+225,WSP (2021) (NB) (Saint John),Guy Fï¿½ï¿,Senior Technical Advisor ,WSP Canada Inc.
+226,WSP (2021) (NB) (Saint John),Cindy Thorn,Director of Operations,Saint John Airport Inc.
+227,WSP (2021) (NB) (Saint John),Brian Wiggins,"Director of Engineering, Facilities, and Capital Projects",Saint John Airport Inc.
+228,WSP (2021) (NB) (Saint John),Andrew Hunter,Maintenance Supervisor,Saint John Airport Inc.

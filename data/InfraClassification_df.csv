@@ -1,0 +1,178 @@
+_id,Infrastructure Layer 1,Infrastructure Layer 2,Components,Description
+0,Coastal Infrastructure,Electrical,Generator,Backup diesel generator and associated equipment
+1,Coastal Infrastructure,Electrical,Lighting,"Assets including light tower, lights and light stands"
+2,Coastal Infrastructure,Potable Water,Hydrants,Fresh water distribution system and fire hydrants
+3,Coastal Infrastructure,Wharf,Holidy island wharf,It consists of a steel pipe pile structure supported with concrete pile caps connected with steel members that support a concrete deck
+4,Coastal Infrastructure,Building,Operations,The building houses hydraulic and electrical equipments and control tower.
+5,Coastal Infrastructure,Building,Phone Booth,Phone Booth
+6,Coastal Infrastructure,Transportation Corridor,Transportation Corridor,River/Stream
+7,Coastal Infrastructure,Petroleum,above ground tank,NAN
+8,Coastal Infrastructure,Scour Pads,Scour Pads,"It is used to remove sand and rock sediment around piers, cribs, etc."
+9,Coastal Infrastructure,Earth Berm,Containmen cell,NAN
+10,Roads & Assoc. Infras,Lighting,NAN,Traffic lights and street lights
+11,Roads & Assoc. Infras,Guard Rails,NAN,NAN
+12,Bridges,Roads & Assoc. Infrastructure,NAN,Structural condition of pavement and guardrails
+13,Wastewater,Wastewater Treatment Plant,Oxidation ditches,NAN
+14,Wastewater,Wastewater Treatment Plant,Solids Dewatering,NAN
+15,Wastewater,Wastewater Treatment Plant,Mechanical,HVAC systems in buildings
+16,Wastewater,Sanitary Sewer Main,NAN,NAN
+17,Wastewater,SCADA System,NAN,Instrumentation for monitoring of water levels
+18,Wastewater,Piping,NAN,Conveyance system such as forcemains and gravity sewer collection
+19,Potable Water,Cistern,NAN,It is constructed of circular concrete sections buried in the ground with a concrete cap. Water is pumped from the cistern to the residence through buried pipes.
+20,Potable Water,SCADA System,NAN,A system that is used to maintain a set pressure in the distribution system
+21,Potable Water,Hydrants,NAN,NAN
+22,Potable Water,O & M,NAN,NAN
+23,Stormwater,Stormwater Sewer,NAN,Piped drainage systems that are desinged to convey runoff
+24,Stormwater,Flow Control,NAN,"Infiltration system, facilities to control flow rates within a drainage system"
+25,Stormwater,Outfall,NAN,Structures where runoff is dischared from a drainage system to a receiving water
+26,Nature based structures,Shores,NAN,NAN
+27,Nature based structures,Water Body,NAN,Wet surfaces such as lagoon
+28,Nature based structures,Walking Path,NAN,Walking paths in nature-based areas
+29,Nature based structures,Graveyard,NAN,NAN
+30,Fuel,Fuel Supply,NAN,NAN
+31,Airport Infrastructure,Building,Control Tower,NAN
+32,Airport Infrastructure,Building,Fire Station,NAN
+33,Airport Infrastructure,Roads & Assoc. Infras,Ramps/Taxiways,Concrete and asphalt surfaces constructed to handle use by aircraft and associated loading
+34,Airport Infrastructure,Roads & Assoc. Infras,Apron,Concrete and asphalt surfaces constructed to handle use by aircraft and associated loading
+35,Airport Infrastructure,Electrical,Distribution & Transmission,"Distribution equipment,utility,transformers Distribution lines & poles, distribution panel"
+36,Airport Infrastructure,Electrical,Security System,"Systems such as cameras, access card, CCTV"
+37,Airport Infrastructure,Electrical,Lighting,NAN
+38,Airport Infrastructure,Mechanical,Heating System,"Boilers, venting, Gas unit heaters"
+39,Airport Infrastructure,Water systems,Stormwater,"The drainage systems, berms, ditches and culverts"
+40,Airport Infrastructure,Nature based structures,Wildlife,NAN
+41,Electrical,Generation,NAN,"Power plant, solar farm"
+42,Electrical,Solar Farm,Energy Storage,NAN
+43,Mechanical,HVAC,NAN,"Condensing units, AC units, Roof units (AHU), Split system AC, Cooling coils, Central HVAC system"
+44,Mechanical,Heating System,NAN,"Boilers, venting, Gas unit heaters"
+45,Mechanical,Cooling System,NAN,NAN
+46,Dam,Gate House,NAN,Structure in which values used to control flow to the generating station are housed
+47,Dam,O & M,NAN,NAN
+48,Emergency Response,Emergency Measures,NAN,Procedures and systems to address during occurance of climate hazards
+49,Weather Station,Weather Station,NAN,NAN
+50,Coastal Infrastructure,Electrical,Fire protection system,Piping runs along roadway
+51,Coastal Infrastructure,Electrical,Cameras,Cameras throughout the site
+52,Coastal Infrastructure,Wastewater,Wastewater treatment plant,System that treats sanitary effluent from the facility
+53,Coastal Infrastructure,Building,Terminal Building,"The building houses a passenger waiting area, cafeteria, and offices"
+54,Coastal Infrastructure,Building,Trailers,"Buildings with no foundation, sits on blocking"
+55,Coastal Infrastructure,Roads & Assoc. Infrastructure,Service road to marshalling yard,It is an asphalt pavement roadway used for public access.
+56,Coastal Infrastructure,Roads & Assoc. Infrastructure,Boardwalk,It is used to provide access to the floating docks
+57,Coastal Infrastructure,Roads & Assoc. Infrastructure,Shoreline,NAN
+58,Coastal Infrastructure,Roads & Assoc. Infrastructure,Rails,NAN
+59,Coastal Infrastructure,Breakwaters,Breakwaters,Steel sheet piles with copewall breakwaters to protect the opening of the harbour
+60,Coastal Infrastructure,Dike,Anchors,It is used to add stability for the sheet pile wall under low-water conditions
+61,Coastal Infrastructure,Dike,Structural,Flood protection dike
+62,Coastal Infrastructure,Ferry service,Summer/Winter berthing/departure,Operations to ferry departures or berthing 
+63,Coastal Infrastructure,Ferry service,Water distribution system,Water distribution system used for tugs
+64,Coastal Infrastructure,Overhead Utilities,NAN,NAN
+65,Coastal Infrastructure,Dredging,NAN,NAN
+66,Bridges,Structural,NAN,Structural consition of bridges and causeways
+67,Wastewater,Wastewater Treatment Plant,Headworks,NAN
+68,Wastewater,Wastewater Treatment Plant,Flow Measurement,NAN
+69,Wastewater,Wastewater Treatment Plant,Clarifiers,NAN
+70,Wastewater,Wastewater Treatment Plant,UV Disinfection,NAN
+71,Wastewater,Wastewater Treatment Plant,Electerical,Power supply and communication systems
+72,Wastewater,Lift Station,NAN,It is used to handle wastewater that is fed from underground gravity pipelines.
+73,Potable Water,Water Treatment Plant,NAN,"A building that houses HVAC, electrical, and mechanical components and water distribution system"
+74,Stormwater,O & M,NAN,NAN
+75,Stormwater,Channels,NAN,Any surface conveyance system such as stream channel and open channel
+76,Stormwater,Storm Detention,NAN,"It is designed to attenuate subject rainfall event and includes Dry pond, tank, over-sized pipe, stacked-box facility"
+77,Stormwater,Catchment,NAN,"The area in which rainfall flows into river or lake or catchment ground surfaces such as Roads, Grass surfaces, Parking Lots, Rooftops, Weeping Tile"
+78,Stormwater,Lift Station,NAN,"Lift station houses all electrical and mechanical components such as Manhole Chamber, Pump, Floats, Electrical Panel, Internal piping, Heater, and Outlet to sustain system pressures"
+79,Nature based structures,Dunes,NAN,NAN
+80,Nature based structures,Park and Playground,NAN,NAN
+81,Buildings,School,NAN,NAN
+82,Buildings,Health Center,NAN,Buildings used for hospitals and nursing station
+83,Buildings,Fire Station,NAN,NAN
+84,Buildings,Community center,NAN,NAN
+85,Buildings,Greenhouse,NAN,NAN
+86,Fuel,Fuel Storage,NAN,Fuel storage facilities or tank farms
+87,Airport Infrastructure,Fuel,Fuel storage and supply,NAN
+88,Airport Infrastructure,Building,Office,NAN
+89,Airport Infrastructure,Roads & Assoc. Infras,Runway,Concrete and asphalt surfaces constructed to handle use by aircraft and associated loading
+90,Airport Infrastructure,Roads & Assoc. Infras,Rail,Structural condition of rail network
+91,Airport Infrastructure,Electrical,Equipment,"Equipments such as automatic transfer switch, Back-up generator"
+92,Airport Infrastructure,Electrical,Navaids,NAN
+93,Airport Infrastructure,Mechanical,Pumping Station,Pumping station for collecting and discharging spent glycol from aircraft de-icing operations
+94,Airport Infrastructure,Mechanical,HVAC,"Condensing units, Doemstic AC units, Roof units (AHU), Split system AC, Cooling coils, Central HVAC system"
+95,Airport Infrastructure,Mechanical,Plumbing Equipment,Eye wash stations
+96,Airport Infrastructure,Mechanical,Other Equipment,De-icing equipment
+97,Airport Infrastructure,O & M,NAN,"Snow cleaning, Crack filling, Flight operation, Maintenance, Environmental Monitoring"
+98,Electrical,Telecommunication,NAN,Telecommunication systems below and above the ground
+99,Electrical,Solar Farm,Panels,NAN
+100,Personnel,Visitors,NAN,NAN
+101,Dam,Water Level,NAN,Instrumentation for monitoring of water levels
+102,Dam,Structural,NAN,Structural elements of the dam including concrete and steel post tensioning
+103,Coastal Infrastructure,Electrical,Shore power,Electrical services for cargo ships docking along the Ship Channel
+104,Coastal Infrastructure,Electrical,Hydraulic,Hydraulic equipment
+105,Coastal Infrastructure,Electrical,Encased utilities,Assets including explosion proof nad fiber optic cables and communications lines and power
+106,Coastal Infrastructure,Stormwater,Storm drainage and sewer,The components of the minor and major drainage systems that cross under or over the dike system
+107,Coastal Infrastructure,Building,Storage,The building used for liquid bulk storage compound
+108,Coastal Infrastructure,Building,Manifold House,The building used to unload fuel or acid pumping
+109,Coastal Infrastructure,Breakwaters,Breakwater land connections,Immediate land connections (dunes and rock berms) to the breakwaters
+110,Coastal Infrastructure,Dike,Crest,NAN
+111,Coastal Infrastructure,Petroleum,Pipeline,NAN
+112,Coastal Infrastructure,Mechanical,Equipment,Mechanical equipments such as winches and pumps
+113,Coastal Infrastructure,Deck,Deck,Terminal and berth deck
+114,Coastal Infrastructure,Dock,Cribs and Fenders,NAN
+115,Coastal Infrastructure,Dock,Piers,NAN
+116,Coastal Infrastructure,Operation and Maintenance,Operations,Operations infrastructure include all of those processes and procedures that keeps the facility runing such as maintenance dredging and cargo handling.
+117,Roads & Assoc. Infras,Sign,NAN,Street signs
+118,Roads & Assoc. Infras,Structural,NAN,"Structural consition of Territorial roads, highway, municipal roads, parking areas"
+119,Roads & Assoc. Infras,O & M,NAN,"O & M activities such as surface maintenance, drainage maintenance, winter maintenance."
+120,Bridges,Electrical,NAN,Electrical elements and supply for operating bridge
+121,Wastewater,Water Pollution Control,NAN,NAN
+122,Wastewater,Other Facilities,NAN,Other infrastructures such as residual handling facility
+123,Stormwater,Stormwater Treatment Unit,NAN,"Devices to remove debris, suspended solids, hydro-carbons"
+124,Buildings,Community Housing,NAN,NAN
+125,Buildings,Office,NAN,NAN
+126,Buildings,Recreation infrastructure,NAN,Community centers and buildings used for recreational activities such as sport centers and arenas
+127,Buildings,Garage and container,NAN,NAN
+128,Airport Infrastructure,Building,Storage,Equipment storage
+129,Airport Infrastructure,Roads & Assoc. Infras,Sign,Structure of (security) fences
+130,Airport Infrastructure,Roads & Assoc. Infras,Fences,NAN
+131,Airport Infrastructure,Electrical,Telecommunication,NAN
+132,Airport Infrastructure,Mechanical,Fire Protection,Incoming water service
+133,Airport Infrastructure,Nature based structures,Natural Foundation,NAN
+134,Airport Infrastructure,Weather Station,NAN,NAN
+135,Airport Infrastructure,Personnel,NAN,NAN
+136,Electrical,Lighting,NAN,NAN
+137,Electrical,Emergency System,NAN,NAN
+138,Electrical,Solar Farm,Foundation,NAN
+139,Mechanical,Air Distribution,NAN,"Outdoor air intakes, Exhaust hoods, Exhaust louvres, Exhaust fans, Ductwork, Supply fans"
+140,Dam,Catchment,NAN,The area in which rainfall flows into river ot lake
+141,Coastal Infrastructure,Wharf,Confederation wharf,It consists of a steel pipe pile structure supported with concrete pile caps connected with steel members that support a concrete deck
+142,Coastal Infrastructure,Roads & Assoc. Infrastructure,Marshalling yard,It is used by vehicles to queue for ferry boarding
+143,Coastal Infrastructure,Roads & Assoc. Infrastructure,Ramp,NAN
+144,Coastal Infrastructure,Roads & Assoc. Infrastructure,Fencing and Gates,NAN
+145,Coastal Infrastructure,Breakwaters,Revetment,Armour stone revetments protect trasnportation infrastructure against erosion of sediment
+146,Coastal Infrastructure,Dike,Seawall,The long steel sheet pile seawall is designed to control flood level.
+147,Coastal Infrastructure,Dike,Fill,"Compacted, non-liquefiable earthfill"
+148,Coastal Infrastructure,Petroleum,Oil-water separator,NAN
+149,Coastal Infrastructure,Underground Utilities,NAN,NAN
+150,Roads & Assoc. Infras,Fences,NAN,Structure of (security) fences
+151,Roads & Assoc. Infras,Rail,NAN,Structural condition of rail network
+152,Wastewater,Wastewater Treatment Plant,Reclaimed Water System,NAN
+153,Wastewater,Manhole,NAN,"It is used to connect sewer pipes, receive catch basin leads, and provide access from the surface for inspection and maintenance."
+154,Wastewater,Outfall,NAN,NAN
+155,Wastewater,Sewage Lagoon,NAN,NAN
+156,Solid Waste,Solid Waste Site,NAN,NAN
+157,Potable Water,Watermain,NAN,Watermain above and below ground
+158,Potable Water,Water Intake,NAN,The intake structure allows raw water to flow by gravity through the raw water intake pipe into the lift pump well.
+159,Potable Water,Drinking Water Well,NAN,NAN
+160,Stormwater,Stormwater Sewer Main,NAN,Storm sewer mains above and below ground
+161,Stormwater,Piping,NAN,"Piping system includes conduits, culverts, catch basin, manhole, overland drainage, drainage"
+162,Airport Infrastructure,Roads & Assoc. Infras,Lighting,NAN
+163,Airport Infrastructure,Electrical,Alaram System,Fire alaram system
+164,Airport Infrastructure,Mechanical,Air Distribution,"Outdoor air intakes, Exhaust air hoods, Exhaust louvres, Exhaust fans, Ductwork, Supply fans"
+165,Airport Infrastructure,Mechanical,Food & Housekeeping Services,"Refrigerators, Water coolers & filling stations"
+166,Airport Infrastructure,Water systems,Wastewater,NAN
+167,Airport Infrastructure,Water systems,Potable Water,NAN
+168,Airport Infrastructure,Nature based structures,Vegetation,NAN
+169,Electrical,Distribution & Transmission,NAN,"Power lines, poles, fused cut out, cable chamber, substation"
+170,Electrical,Equipment,NAN,Equipments such as generator
+171,Electrical,Solar Farm,Inverter,NAN
+172,Personnel,Operators,NAN,"Management, operation and maintenance Staff"
+173,Dam,Water Quality,NAN,NAN
+174,Dam,Rehabilitation,NAN,NAN
+175,Dam,Water Gates,NAN,Fine tunable mechanical gates proposed to replace stop logs
+176,Dam,Equipment,NAN,NAN

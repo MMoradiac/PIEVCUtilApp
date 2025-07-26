@@ -1,7 +1,6 @@
 import dash
 import dash_bootstrap_components as dbc
-import dash_html_components as html
-import dash_core_components as dcc
+from dash import dcc, html
 import plotly.express as px
 from dash.dependencies import Input, Output
 import pandas as pd
@@ -17,15 +16,15 @@ import random
 ## Infrastructure Classification
 InfraClassification_df = pd.read_csv('data/InfraClassification_df.csv')
 ## Project Team
-ProjectTeam_df = pd.read_csv('data/ProjectTeam_df.csv')
+ProjectTeam_df = pd.read_csv('data/ProjectTeam_df.csv',encoding='latin1')
 ## Studies Overview
-StudiesOverview_df = pd.read_csv('data/StudiesOverview_df.csv')
+StudiesOverview_df = pd.read_csv('data/StudiesOverview_df.csv',encoding='latin1')
 ## Risk Profile
 RiskProfile_df = pd.read_csv('data/RiskProfile_df.csv')
 ## ClimateDataInfras
 ClimateDataInfras_df = pd.read_csv('data/ClimateDataInfras_df.csv')
 
-ClimateData_df = pd.read_csv('data/ClimateData_df.csv')
+ClimateData_df = pd.read_csv('data/ClimateData_df.csv',encoding='latin1')
 ## Recommendation
 Recommendation_df = pd.read_csv('data/Recommendation_df.csv')
 
@@ -43,6 +42,7 @@ FONT_AWESOME = "https://use.fontawesome.com/releases/v5.10.2/css/all.css"
 #-----------------------------------------------------------------------------------------------------------------------
 # Start App
 app = dash.Dash(__name__, external_stylesheets=[dbc.themes.BOOTSTRAP,FONT_AWESOME])
+server = app.server
 app.title = 'PIEVCAnalysis'
 #-----------------------------------------------------------------------------------------------------------------------
 # App Style
@@ -171,7 +171,7 @@ app.layout = html.Div([
                         html.I(className="fas fa-info-circle fa-lg", id="target-sb",style={'font-size':'20px'})],style={'padding-left': '15px'}),
                     dbc.Tooltip("Click on it to know more!", target="target-sb"),
                     html.Hr(style={'margin-right': '6rem','margin-left': '0.8rem'}),
-                    dcc.Graph(figure=sb),
+                    dcc.Graph(figure=sb,config={'responsive': True}),
                 ],style={'width':'55%'}),
                 html.Div([
                     html.Div([
@@ -463,7 +463,7 @@ app.layout = html.Div([
 )
 def InfraClassification_Component(opt_infra):
 
-    _InfraClassification_df = InfraClassification_df.copy()
+    _InfraClassification_df = pd.read_csv('data/InfraClassification_df.csv')
     opt_components = _InfraClassification_df[_InfraClassification_df['Infrastructure Layer 1']==opt_infra]['Infrastructure Layer 2'].unique().tolist()
     opt_components = [dict(label=val, value=val) for val in opt_components]
 
@@ -478,7 +478,7 @@ def InfraClassification_Component(opt_infra):
 def InfraClassification_DescriptionStudy(opt_infra,opt_infra_comp):
 
     _RiskProfile_df = RiskProfile_df
-    _InfraClassification_df = InfraClassification_df.copy()
+    _InfraClassification_df = pd.read_csv('data/InfraClassification_df.csv')
     _InfraClassification_df.replace(to_replace="NAN", value='N/A', inplace=True)
     comp_df = _InfraClassification_df[(_InfraClassification_df['Infrastructure Layer 1']==opt_infra) & (_InfraClassification_df['Infrastructure Layer 2']==opt_infra_comp)]
 
@@ -801,10 +801,10 @@ def ScatterPlot(drop_InfraClass_multi):
             RiskProfile_infra_df_gb_medium_ClimParam = RiskProfile_infra_df_ClimParam.groupby('Study')[['Score_medium']].max().reset_index()
             RiskProfile_infra_df_gb_long_ClimParam = RiskProfile_infra_df_ClimParam.groupby('Study')[['Score_long']].max().reset_index()
 
-            RiskCount_current_df = RiskProfile_infra_df_gb_current_ClimParam['Score_current'].value_counts().reset_index().rename(columns={'index': 'RiskScore', 'Score_current': 'Counts'})
-            RiskCount_short_df = RiskProfile_infra_df_gb_short_ClimParam['Score_short'].value_counts().reset_index().rename(columns={'index': 'RiskScore', 'Score_short': 'Counts'})
-            RiskCount_medium_df = RiskProfile_infra_df_gb_medium_ClimParam['Score_medium'].value_counts().reset_index().rename(columns={'index': 'RiskScore', 'Score_medium': 'Counts'})
-            RiskCount_long_df = RiskProfile_infra_df_gb_long_ClimParam['Score_long'].value_counts().reset_index().rename(columns={'index': 'RiskScore', 'Score_long': 'Counts'})
+            RiskCount_current_df = RiskProfile_infra_df_gb_current_ClimParam['Score_current'].value_counts().reset_index().rename(columns={'count': 'RiskScore', 'Score_current': 'Counts'})
+            RiskCount_short_df = RiskProfile_infra_df_gb_short_ClimParam['Score_short'].value_counts().reset_index().rename(columns={'count': 'RiskScore', 'Score_short': 'Counts'})
+            RiskCount_medium_df = RiskProfile_infra_df_gb_medium_ClimParam['Score_medium'].value_counts().reset_index().rename(columns={'count': 'RiskScore', 'Score_medium': 'Counts'})
+            RiskCount_long_df = RiskProfile_infra_df_gb_long_ClimParam['Score_long'].value_counts().reset_index().rename(columns={'count': 'RiskScore', 'Score_long': 'Counts'})
 
             if 2 in RiskCount_current_df.RiskScore.to_list():
                 n_Low = RiskCount_current_df['Counts'][RiskCount_current_df['RiskScore'] == 2].to_list()[0]
@@ -1083,7 +1083,3 @@ def Recommendation_Statement(opt_infra_province_study):
                 Statement_out += '''* {} \n'''.format(i_recom)
 
     return html.Div([dcc.Markdown(Statement_out)])
-
-
-if __name__ == '__main__':
-    app.run_server(debug=True, port=3000)
